@@ -1,13 +1,22 @@
+import { useEffect } from 'react';
 import './App.css';
 import Navbar from './NavBar';
+import { csv } from 'd3';
+import datacsv from './OpenRefineMotorcycleData.csv'
 
-function App() {
-  return (
-    <div className="App">
-      <Navbar />
-      <div className="content"></div>
-    </div>
-  );
+const App = () => {
+  useEffect(() => {
+    csv(datacsv).then(data=>{
+      console.log(data);
+    })
+}, []);
+
+return (
+  <div className="App">
+    <Navbar />
+    <div className="content"> Things </div>
+  </div>
+);
 }
 
 export default App;
