@@ -2234,7 +2234,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 2815,Used,2500.0,"Onsted, Michigan, United States",1985,4496,White,Yamaha,No,RZ350
 2817,Used,1000.0,"Kansas City, Kansas, United States",2016,2519,Blue,Custom Built Motorcycles,No,Other
 2818,Used,5900.0,"Grapevine, Texas, United States",2002,7186,Green,Harley-Davidson,No,V-Rod
-2819,Used,18495.0,"Villa Park, Illinois, United States",2009,848,Black,Bourget,No,PYTHON 330
+2819,Used,18495.0,"Villa Park, Illinois, United States",2009,848,Black,Other,No,PYTHON 330
 2820,Used,1800.0,"Menominee, Michigan, United States",1977,10573,Blue,Yamaha,No,XS
 2821,Used,2125.0,"Suncook, New Hampshire, United States",2016,6374,Silver,Honda,No,NC700X
 2822,Used,13500.0,"Columbiana, Ohio, United States",2012,6000,Black,Harley-Davidson,No,Touring
@@ -2312,7 +2312,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 2925,Used,21995.0,"Dumfries, Virginia, United States",2015,8442,Black,Harley-Davidson,No,FLHXS - Street Glide® Special
 2926,Used,21995.0,"Dumfries, Virginia, United States",2015,8442,Black,Harley-Davidson,No,FLHXS - Street Glide® Special
 2927,Used,18800.0,"Homosassa, Florida, United States",2005,15243,Red,Honda,No,Valkyrie
-2928,Used,6990.0,"Venice, Florida, United States",1982,23280,Blue,American Classic Motors,No,harley davidson flh
+2928,Used,6990.0,"Venice, Florida, United States",1982,23280,Blue,Other,No,harley davidson flh
 2929,Used,12500.0,"Springfield, New Jersey, United States",2009,19500,Other,Harley-Davidson,No,Other
 2930,Used,26000.0,"Las Vegas, Nevada, United States",1947,21858,Red,Indian,No,Chief
 2931,Used,2000.0,"New Ipswich, New Hampshire, United States",2003,25000,Silver,Yamaha,No,Roadster
@@ -2428,7 +2428,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3063,Used,4290.0,"Lake Worth, Florida, United States",2009,7500,Red,Yamaha,No,Roadster
 3064,Used,1975.0,"Tucson, Arizona, United States",1970,2114,Green,Honda,No,CT
 3065,Used,2000.0,"New Canaan, Connecticut, United States",2003,13932,Purple,Suzuki,No,GSX-R
-3066,Used,22000.0,"Brick, New Jersey, United States",2016,1626,White,KTM,Yes,superduke r
+3066,Used,22000.0,"Brick, New Jersey, United States",2016,1626,White,Other,Yes,superduke r
 3068,New,500.0,"Tarpon Springs, Florida, United States",2008,19875,--,Harley-Davidson,No,Touring
 3069,Used,5200.0,"Independence, Ohio, United States",2002,31310,Red,Honda,No,CBR
 3072,Used,11499.0,"Bartow, Florida, United States",2015,2168,Red,Suzuki,No,GSX-R
@@ -2442,7 +2442,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3081,Used,12900.0,"Naples, Florida, United States",2013,22000,Black,Ducati,No,Sport Touring
 3082,Used,4000.0,"Chico, California, United States",2015,6013,Black,Kawasaki,No,KLR
 3083,Used,18495.0,"Springfield, Missouri, United States",2016,3223,Red,Other,No,Polaris Slingshot SL
-3085,Used,4499.0,"Long Branch, New Jersey, United States",2009,20662,Red,Buell,No,Other
+3085,Used,4499.0,"Long Branch, New Jersey, United States",2009,20662,Red,Other,No,Other
 3087,Used,3000.0,"Woodbridge, Virginia, United States",2006,9734,Green,Honda,No,XR
 3088,Used,2000.0,"Angleton, Texas, United States",2000,18699,Black,Suzuki,No,GSX-R
 3089,Used,8500.0,"Montevideo, default",1954,10000,Other,Other,No,KONSUL II
@@ -2490,14 +2490,14 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3148,Used,5999.0,"Long Branch, New Jersey, United States",2008,6314,Brown,Kawasaki,No,ZX14 SPECIAL EDITION
 3152,Used,3500.0,"Houston, Texas, United States",1997,5500,Black,Kawasaki,No,Ninja
 3155,Used,6790.0,"Little Rock, Arkansas, United States",2007,8865,Other,Suzuki,No,GSX-R
-3156,Used,4499.0,"Long Branch, New Jersey, United States",2009,20662,Red,Buell,No,Other
+3156,Used,4499.0,"Long Branch, New Jersey, United States",2009,20662,Red,Other,No,Other
 3158,Used,15000.0,"Bolton, Massachusetts, United States",2013,2657,Red,Ducati,No,Superbike
 3159,Used,10000.0,"Bronx, New York, United States",2012,1000,Blue,Kawasaki,No,Ninja
 3161,Used,2800.0,"Bristol, Connecticut, United States",1984,36550,Red,Honda,No,Magna V65
-3162,Used,4550.0,"Dallas, Texas, United States",2017,600,Black,Moto Guzzi,Yes,V9
+3162,Used,4550.0,"Dallas, Texas, United States",2017,600,Black,Other,Yes,V9
 3164,Used,4000.0,"Chico, California, United States",2015,5987,White,Kawasaki,No,KLR
 3165,Used,1699.0,"Grapevine, Texas, United States",2009,2153,Yellow,Yamaha,No,Zuma
-3166,Used,38500.0,"South Weymouth, Massachusetts, United States",2012,5500,Black,Campagna,No,Trex14r
+3166,Used,38500.0,"South Weymouth, Massachusetts, United States",2012,5500,Black,Other,No,Trex14r
 3167,Used,1000.0,"Petersburg, Virginia, United States",2005,7098,Other,Custom Built Motorcycles,No,Other
 3169,Used,6900.0,"Hollywood, Florida, United States",1998,24224,White,Yamaha,No,YZF-R
 3171,Used,23748.0,"Ridgeland, Mississippi, United States",2016,2204,Blue,Harley-Davidson,No,Touring
@@ -2519,7 +2519,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3192,Used,10395.0,"Long Branch, New Jersey, United States",2013,6638,Red,Suzuki,No,GSX-R
 3193,Used,2500.0,"Mount Carmel, Illinois, United States",1999,10000,Green,Yamaha,No,V Star
 3194,Used,1050.0,"Brecksville, Ohio, United States",2013,11100,Black,Honda,No,Shadow
-3196,Used,5000.0,"Hudson, Wisconsin, United States",2009,4838,Black,Buell,No,1125R
+3196,Used,5000.0,"Hudson, Wisconsin, United States",2009,4838,Black,Other,No,1125R
 3197,Used,4500.0,"Jacksboro, Tennessee, United States",1998,30000,Yellow,Honda,No,Valkyrie
 3199,Used,6300.0,"Issaquah, Washington, United States",1981,8696,Black,Ducati,No,Other
 3200,Used,10395.0,"Long Branch, New Jersey, United States",2013,6638,Red,Suzuki,No,GSX-R
@@ -2527,7 +2527,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3202,Used,24500.0,"Port Chester, New York, United States",2015,4261,Red,Other,No,Slingshot SL
 3203,Used,4500.0,"Naples, Florida, United States",2012,1974,White,Suzuki,No,Hayabusa
 3204,Used,1050.0,"Brecksville, Ohio, United States",2013,11100,Black,Honda,No,Shadow
-3206,Used,5000.0,"Hudson, Wisconsin, United States",2009,4838,Black,Buell,No,1125R
+3206,Used,5000.0,"Hudson, Wisconsin, United States",2009,4838,Black,Other,No,1125R
 3207,Used,4500.0,"Jacksboro, Tennessee, United States",1998,30000,Yellow,Honda,No,Valkyrie
 3208,Used,7500.0,"Houston, Texas, United States",2011,3548,White,BMW,Yes,F800R
 3210,Used,6300.0,"Issaquah, Washington, United States",1981,8696,Black,Ducati,No,Other
@@ -2621,7 +2621,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3314,Used,2300.0,"Millington, Tennessee, United States",1982,20700,Red,Suzuki,No,GS1100L
 3315,Used,7000.0,"Placerville, California, United States",2010,1079,Silver,BMW,No,F-Series
 3316,Used,2200.0,"Ashaway, Rhode Island, United States",1993,20276,White,Custom Built Motorcycles,No,Other
-3317,Used,1000.0,"Studio City, California, United States",1987,3937,Other,American Classic Motors,No,Harley Davidson
+3317,Used,1000.0,"Studio City, California, United States",1987,3937,Other,Other,No,Harley Davidson
 3318,Used,8000.0,"Bellefonte, Pennsylvania, United States",2013,13605,Other,BMW,No,F-Series
 3321,Used,6500.0,"New York, New York, United States",2006,11600,Black,Honda,No,CRB
 3322,Used,500.0,"Shawnee, Oklahoma, United States",2010,10927,Black,Honda,No,Stateline
@@ -2643,7 +2643,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3340,Used,12000.0,"Portland, Oregon, United States",2000,24052,Black,Harley-Davidson,No,Other
 3341,Used,4150.0,"Buda, Texas, United States",2008,1000,Metallic,Custom Built Motorcycles,No,Chopper
 3342,Used,15000.0,"Coventry, Connecticut, United States",2012,5200,Red,Ducati,No,Superbike
-3344,Used,10500.0,"Pueblo, Colorado, United States",2004,18000,Red,Big Dog,No,Custom
+3344,Used,10500.0,"Pueblo, Colorado, United States",2004,18000,Red,Other,No,Custom
 3345,Used,4350.0,"Suncook, New Hampshire, United States",2011,18752,Red,Suzuki,No,Hayabusa
 3346,Used,6200.0,"Suncook, New Hampshire, United States",2009,15022,Blue,Harley-Davidson,No,Softail
 3348,Used,2900.0,"York, Pennsylvania, United States",1997,28750,Red,BMW,No,F-Series
@@ -2660,7 +2660,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3364,Used,2500.0,"Evansville, Indiana, United States",1984,31000,Gray,Honda,No,GoldWing Interstate
 3365,Used,2625.0,"Brighton, Michigan, United States",1969,9999,Other,Triumph,No,Bonneville
 3366,Used,4300.0,"Tucson, Arizona, United States",2007,20500,Blue,Yamaha,No,Road Star
-3368,Used,8900.0,"Attica, Michigan, United States",2007,3900,Other,MV Agusta,No,F4 1000R
+3368,Used,8900.0,"Attica, Michigan, United States",2007,3900,Other,Other,No,F4 1000R
 3369,Used,500.0,"Daytona Beach, Florida, United States",2013,7465,Black,Harley-Davidson,No,Other
 3371,Used,5000.0,"Suncook, New Hampshire, United States",2016,1036,Red,Honda,No,XR
 3372,Used,3150.0,"Huntingdon Valley, Pennsylvania, United States",2003,6343,Black,Yamaha,No,V Star
@@ -2770,11 +2770,11 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3509,Used,5999.0,"Mansfield, Texas, United States",2011,20380,Red,Honda,No,VT1300
 3513,Used,2500.0,"Grand Forks, North Dakota, United States",2006,4300,Green,Kawasaki,No,Vulcan
 3514,Used,9000.0,"Athens, New York, United States",2007,9880,Black,Harley-Davidson,No,Dyna
-3515,Used,5200.0,"Overland Park, Kansas, United States",2006,10949,Orange,Buell,No,Other
+3515,Used,5200.0,"Overland Park, Kansas, United States",2006,10949,Orange,Other,No,Other
 3517,Used,4500.0,"Montclair, New Jersey, United States",1965,11790,Red,Honda,No,Super Hawk
 3518,Used,3000.0,"Aspen, Colorado, United States",2009,14000,Other,Suzuki,No,DL650
 3519,Used,1200.0,"Aston, Pennsylvania, United States",2000,12574,Other,Honda,No,Shadow
-3520,Used,6086.0,"Chicago, Illinois, United States",2006,4495,Black,Big Dog,No,Mastiff
+3520,Used,6086.0,"Chicago, Illinois, United States",2006,4495,Black,Other,No,Mastiff
 3521,Used,11991.0,"Scott City, Missouri, United States",2010,1584,Blue,Harley-Davidson,No,Softail Deluxe
 3523,Used,2025.0,"Marina del Rey, California, United States",2014,13586,Green,Triumph,No,Bonneville
 3525,Used,900.0,"Fairfax, Virginia, United States",1983,16500,Red,Honda,No,Nighthawk
@@ -2867,7 +2867,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3644,Used,3249.0,"Naples, Florida, United States",2014,8799,Other,Harley-Davidson,No,Sportster
 3645,Used,700.0,"Paramus, New Jersey, United States",1995,4043,Red,Yamaha,No,Virago
 3647,Used,15000.0,"Fort Lauderdale, Florida, United States",2015,3400,Black,BMW,Yes,K1600GTL
-3648,Used,3210.0,"Adairsville, Georgia, United States",2004,5301,Black,Aprilia,No,RSV1000R FACTORY
+3648,Used,3210.0,"Adairsville, Georgia, United States",2004,5301,Black,Other,No,RSV1000R FACTORY
 3649,Used,7450.0,"McAllen, Texas, United States",2009,16902,Black,Harley-Davidson,No,Dyna
 3650,Used,2332.0,"Pittsburgh, Pennsylvania, United States",1998,12829,Red,Triumph,No,Thunderbird Sport
 3651,Used,14000.0,"Miami, Florida, United States",1948,4999,Blue,Other,No,S7 Early Model
@@ -2884,7 +2884,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3665,Used,6100.0,"Brooklyn, New York, United States",2009,22000,Black,Harley-Davidson,No,Sportster
 3666,Used,7500.0,"Reinholds, Pennsylvania, United States",2012,5056,Black,Suzuki,No,V-STROM ABS
 3667,Used,7500.0,"Fredericksburg, Virginia, United States",2008,2300,Metallic,Harley-Davidson,No,Dyna Lowrider
-3668,Used,7700.0,"Forest, Ohio, United States",2006,12553,Blue,Big Dog,No,Mastiff
+3668,Used,7700.0,"Forest, Ohio, United States",2006,12553,Blue,Other,No,Mastiff
 3669,Used,8250.0,"San Tan Valley, Arizona, United States",1998,27900,Black,Honda,No,Valkyrie
 3671,Used,1825.0,"San Antonio, Texas, United States",1996,17964,Black,Yamaha,No,V Max
 3672,Used,5999.0,"Mansfield, Texas, United States",2011,14280,Red,Kawasaki,No,Verseys
@@ -2928,7 +2928,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3719,Used,39995.0,"West Point, California, United States",1933,350,Other,Indian,No,Chief
 3720,Used,2395.0,"Greenacres, Washington, United States",1970,1308,Blue,Honda,No,CT
 3721,Used,10888.0,"Dundalk, Maryland, United States",2005,5506,Black,Harley-Davidson,No,Softail
-3722,Used,7700.0,"Forest, Ohio, United States",2006,12553,Blue,Big Dog,No,Mastiff
+3722,Used,7700.0,"Forest, Ohio, United States",2006,12553,Blue,Other,No,Mastiff
 3723,Used,4000.0,"Kent, Ohio, United States",2007,24000,Red,Kawasaki,No,Vulcan
 3724,Used,2500.0,"Swansea, South Carolina, United States",1964,2746,Black,Honda,No,CL
 3727,Used,1800.0,"Elkton, Maryland, United States",1972,13367,Red,Yamaha,No,XS
@@ -2950,7 +2950,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3748,Used,2299.0,"Bridgewater, New Jersey, United States",1997,25027,Other,BMW,No,F-Series
 3749,Used,3900.0,"Boca Raton, Florida, United States",1991,21239,Black,BMW,No,K-Series
 3750,Used,4999.0,"Fair Haven, Vermont, United States",2008,16500,Black,Kawasaki,No,Vulcan
-3751,Used,2900.0,"Salem, Illinois, United States",1999,152,Blue,Royal Enfield,No,BULLET 500
+3751,Used,2900.0,"Salem, Illinois, United States",1999,152,Blue,Other,No,BULLET 500
 3752,Used,5900.0,"Locust Valley, New York, United States",2013,2847,Black,Ducati,No,Monster
 3753,Used,2325.0,"Suncook, New Hampshire, United States",2005,30235,Black,Harley-Davidson,No,Softail
 3754,Used,17000.0,"Matthews, North Carolina, United States",2007,3800,Black,Custom Built Motorcycles,No,Pro Street
@@ -3040,7 +3040,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3859,Used,4500.0,"Las Vegas, Nevada, United States",1971,112,Blue,Honda,No,CT
 3861,Used,1500.0,"Franklin, Ohio, United States",1982,22817,Blue,Suzuki,No,GS
 3862,Used,2399.0,"Salisbury, Maryland, United States",1971,16115,Red,Honda,No,CL
-3863,Used,5699.0,"Milwaukee, Wisconsin, United States",2014,1960,Orange,KTM,No,300 XC-W
+3863,Used,5699.0,"Milwaukee, Wisconsin, United States",2014,1960,Orange,Other,No,300 XC-W
 3864,Used,13995.0,"Tucson, Arizona, United States",2005,10375,Other,Harley-Davidson,No,Softail
 3866,Used,1050.0,"Suncook, New Hampshire, United States",2007,18215,Black,Suzuki,No,GSX-R750
 3867,Used,3200.0,"Huntington Station, New York, United States",2006,17000,Other,Yamaha,No,Road Star
@@ -3071,7 +3071,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3897,Used,455.0,"Suncook, New Hampshire, United States",2012,15047,Red,Kawasaki,No,ZG1400 CONCOURS 1400 W/ABS
 3898,Used,5500.0,"Round Rock, Texas, United States",2005,3000,Black,Honda,No,VTX
 3899,Used,3400.0,"Camas, Washington, United States",2005,17200,White,Honda,No,Shadow
-3900,Used,8599.0,"Englewood, Florida, United States",2012,1420,Black,Aprilia,No,RSV4R APRC
+3900,Used,8599.0,"Englewood, Florida, United States",2012,1420,Black,Other,No,RSV4R APRC
 3901,Used,5500.0,"Round Rock, Texas, United States",2005,3000,Black,Honda,No,VTX
 3902,Used,3400.0,"Camas, Washington, United States",2005,17200,White,Honda,No,Shadow
 3903,Used,5000.0,"Reinholds, Pennsylvania, United States",2005,15500,Silver,Honda,No,VTX
@@ -3085,7 +3085,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3913,Used,4000.0,"Houston, Texas, United States",2012,16500,Blue,Yamaha,No,V Star
 3914,Used,10950.0,"Round Rock, Texas, United States",2008,32002,Black,Harley-Davidson,No,FLSTSB - Cross Bones
 3915,Used,49995.0,"Stockton, New Jersey, United States",2005,940,Red,Custom Built Motorcycles,No,DKCC Trike
-3919,Used,2299.0,"Galena, Illinois, United States",1979,18223,Other,Moto Guzzi,No,
+3919,Used,2299.0,"Galena, Illinois, United States",1979,18223,Other,Other,No,
 3920,Used,4500.0,"Las Vegas, Nevada, United States",1971,112,Blue,Honda,No,CT
 3921,Used,15792.0,"Scott City, Missouri, United States",2015,2609,Blue,Harley-Davidson,No,Softail Deluxe
 3922,Used,999.0,"Myrtle Beach, South Carolina, United States",2003,16525,Black,Yamaha,No,V Star
@@ -3101,7 +3101,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3935,Used,3000.0,"Lumberton, New Jersey, United States",2003,1165,Yellow,Victory,No,V92C
 3938,Used,7999.0,"Port Orange, Florida, United States",2008,12775,Silver,Can-Am,Yes,Spyder
 3939,Used,810.0,"Suncook, New Hampshire, United States",2014,18533,Black,Kawasaki,No,ZG1400 CONCOURS 1400 W/ABS
-3942,Used,52000.0,"Batavia, Illinois, United States",2016,1650,White,Campagna,Yes,16sp
+3942,Used,52000.0,"Batavia, Illinois, United States",2016,1650,White,Other,Yes,16sp
 3943,Used,13500.0,"Boynton Beach, Florida, United States",2013,3684,Red,Ducati,No,Superbike
 3944,Used,3799.0,"Wright City, Missouri, United States",2012,14000,Black,Honda,No,Shadow
 3945,Used,4650.0,"Miami, Florida, United States",2012,2900,Black,Suzuki,No,V-STROM DL650A 650 ABS
@@ -3110,7 +3110,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3948,Used,9000.0,"New Rochelle, New York, United States",2009,1200,Red,Yamaha,No,Road Star
 3949,Used,6648.0,"Ridgeland, Mississippi, United States",2013,5603,Red,Harley-Davidson,No,Sportster
 3950,Used,6648.0,"Ridgeland, Mississippi, United States",2013,5603,Red,Harley-Davidson,No,Sportster
-3951,Used,8599.0,"Englewood, Florida, United States",2012,1420,Black,Aprilia,No,RSV4R APRC
+3951,Used,8599.0,"Englewood, Florida, United States",2012,1420,Black,Other,No,RSV4R APRC
 3952,Used,2025.0,"Brookfield, Connecticut, United States",2014,2433,Metallic,BMW,No,G650GS
 3953,Used,4995.0,"Saratoga Springs, New York, United States",2002,27889,Other,Suzuki,No,Hayabusa
 3954,Used,9250.0,"Cartersville, Georgia, United States",2013,5270,Blue,Kawasaki,No,Vulcan
@@ -3119,7 +3119,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3957,Used,2600.0,"Doylestown, Ohio, United States",2006,1019,Black,Suzuki,No,Boulevard
 3958,Used,800.0,"Hillsboro, Kentucky, United States",2013,1000,Red,Honda,No,CRF
 3959,Used,5200.0,"Houston, Texas, United States",2013,10500,Black,Honda,No,Shadow
-3960,Used,800.0,"Puyallup, Washington, United States",1972,9999,Silver,Husqvarna,No,250WR
+3960,Used,800.0,"Puyallup, Washington, United States",1972,9999,Silver,Other,No,250WR
 3961,Used,3500.0,"Suncook, New Hampshire, United States",2011,4146,Black,Kawasaki,No,Vulcan
 3962,Used,8500.0,"Whitley City, Kentucky, United States",2005,850,Other,Custom Built Motorcycles,No,Chopper
 3963,Used,5000.0,"Katy, Texas, United States",2009,3038,Black,Yamaha,No,V Star
@@ -3144,15 +3144,15 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 3987,Used,14990.0,"Round Rock, Texas, United States",2016,5438,Red,Indian,No,Chief Vintage Indian Red
 3989,Used,6000.0,"Porter, Texas, United States",2011,2377,Red,Honda,No,Shadow Aero (VT750)
 3990,Used,5000.0,"Fremont, Nebraska, United States",2015,997,Red,Suzuki,No,Boulevard
-3991,Used,10000.0,"Little Elm, Texas, United States",2006,2300,Red,MV Agusta,No,F4 1000R
+3991,Used,10000.0,"Little Elm, Texas, United States",2006,2300,Red,Other,No,F4 1000R
 3992,Used,15697.0,"Dallas, Texas, United States",2016,3171,Blue,Harley-Davidson,No,Softail
 3993,Used,3050.0,"Berlin, Connecticut, United States",2012,4100,White,Suzuki,No,Hayabusa
-3994,Used,8000.0,"Malibu, California, United States",2013,5551,Black,Moto Guzzi,No,GRISO
+3994,Used,8000.0,"Malibu, California, United States",2013,5551,Black,Other,No,GRISO
 3995,Used,7000.0,"Colorado Springs, Colorado, United States",2012,6500,Red,Ducati,No,Monster
 3996,Used,2750.0,"Apollo Beach, Florida, United States",1995,12407,White,Honda,No,Magna
 3997,Used,250.0,"Suncook, New Hampshire, United States",2016,1288,Black,Harley-Davidson,No,Sportster
 3998,Used,8000.0,"Albuquerque, New Mexico, United States",2013,2900,Green,Custom Built Motorcycles,No,Chopper
-3999,Used,6900.0,"Temecula, California, United States",2006,20500,Other,KTM,No,Adventure
+3999,Used,6900.0,"Temecula, California, United States",2006,20500,Other,Other,No,Adventure
 4000,Used,1025.0,"Suncook, New Hampshire, United States",2007,35671,Other,Honda,No,Shadow
 4001,Used,8850.0,"Discovery Bay, California, United States",2010,8040,Black,Yamaha,No,Stratoliner
 4002,Used,9991.0,"Scott City, Missouri, United States",2014,8545,Red,Harley-Davidson,No,Dyna Fat Bob
@@ -3163,7 +3163,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4008,Used,8000.0,"Ventura, California, United States",2007,6400,Yellow,Ducati,No,Superbike
 4009,Used,11000.0,"Fort Worth, Texas, United States",2010,17900,Black,Harley-Davidson,No,FXR
 4010,Used,29900.0,"Santa Monica, California, United States",2006,270,Silver,Ducati,No,Supersport
-4011,Used,9500.0,"Oak Brook, Illinois, United States",2003,1153,Other,American Ironhorse,No,Stalker/ Arlen Ness
+4011,Used,9500.0,"Oak Brook, Illinois, United States",2003,1153,Other,Other,No,Stalker/ Arlen Ness
 4012,Used,4600.0,"Suncook, New Hampshire, United States",2016,3304,Black,Harley-Davidson,No,Sportster
 4014,Used,810.0,"Suncook, New Hampshire, United States",2014,18533,Black,Kawasaki,No,ZG1400 CONCOURS 1400 W/ABS
 4016,Used,3000.0,"Hanover, Pennsylvania, United States",2004,5121,Blue,Suzuki,No,SV
@@ -3219,7 +3219,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4071,Used,8000.0,"Ventura, California, United States",2007,6400,Yellow,Ducati,No,Superbike
 4072,Used,11000.0,"Fort Worth, Texas, United States",2010,17900,Black,Harley-Davidson,No,FXR
 4073,Used,29900.0,"Santa Monica, California, United States",2006,270,Silver,Ducati,No,Supersport
-4075,Used,9500.0,"Oak Brook, Illinois, United States",2003,1153,Other,American Ironhorse,No,Stalker/ Arlen Ness
+4075,Used,9500.0,"Oak Brook, Illinois, United States",2003,1153,Other,Other,No,Stalker/ Arlen Ness
 4076,Used,9500.0,"Saint Pauls, North Carolina, United States",2002,5500,Purple,Custom Built Motorcycles,No,Chopper
 4077,Used,250.0,"Suncook, New Hampshire, United States",2011,6425,Gray,Yamaha,No,FZ
 4078,Used,12700.0,"North Dartmouth, Massachusetts, United States",2016,8445,Black,Other,No,Polaris Slingshot
@@ -3239,7 +3239,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4098,Used,8670.0,"Round Rock, Texas, United States",2010,37105,Silver,Harley-Davidson,No,FLSTC - Heritage Softail Classic
 4099,Used,14000.0,"Redmond, Washington, United States",2012,4971,Red,Ducati,No,Superbike
 4100,Used,2500.0,"Columbia, South Carolina, United States",2005,8622,Silver,Suzuki,No,Boulevard
-4101,Used,3200.0,"Hull, Georgia, United States",2003,15310,Black,Aprilia,No,Caponord
+4101,Used,3200.0,"Hull, Georgia, United States",2003,15310,Black,Other,No,Caponord
 4102,Used,6677.0,"Dallas, Texas, United States",2003,29114,Black,Harley-Davidson,No,FLSTF - Softail Fat Boy
 4103,Used,6000.0,"Frisco, Texas, United States",1999,31000,Other,Honda,No,Valkyrie
 4106,Used,4500.0,"El Paso, Texas, United States",2007,4600,Black,Triumph,No,Speed Triple
@@ -3252,7 +3252,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4113,Used,14988.0,"Tulsa, Oklahoma, United States",2015,30121,Black,Indian,No,Roadmaster
 4114,Used,3700.0,"Mechanicsville, Virginia, United States",2002,3494,Black,Kawasaki,No,Vulcan
 4115,Used,3300.0,"Charlotte, North Carolina, United States",2002,29225,Green,Kawasaki,No,Vulcan
-4116,Used,33000.0,"Lemoyne, Quebec, Canada",2014,5000,White,Campagna,No,V13R
+4116,Used,33000.0,"Lemoyne, Quebec, Canada",2014,5000,White,Other,No,V13R
 4117,Used,16850.0,"Fort Myers Beach, Florida, United States",2015,12195,Black,Indian,No,Cheif Vintage
 4118,Used,11500.0,"Windsor, Virginia, United States",1999,24000,Other,Harley-Davidson,No,FXR
 4119,New,4999.0,"St. Petersburg, FL, United States",2009,544,Blue,Honda,No,Shadow
@@ -3333,7 +3333,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4212,Used,18980.0,"Sterling, Virginia, United States",2015,4726,Metallic,BMW,No,K1600GTL
 4213,Used,4495.0,"Miami, Florida, United States",2012,14884,Black,Yamaha,No,V Star
 4214,Used,4000.0,"Little Rock, Arkansas, United States",2007,3400,Red,Ducati,No,Monster
-4215,Used,3500.0,"Dobbs Ferry, New York, United States",2009,297,Red,Husqvarna,No,TE-250
+4215,Used,3500.0,"Dobbs Ferry, New York, United States",2009,297,Red,Other,No,TE-250
 4216,Used,50.0,"Johnson City, Tennessee, United States",2006,10000,Black,Yamaha,No,Stratoliner
 4217,Used,5900.0,"Fort Myers, Florida, United States",2008,18014,Black,Yamaha,No,FJR
 4219,Used,6980.0,"Sterling, Virginia, United States",2009,19456,Silver,BMW,No,F-Series
@@ -3418,7 +3418,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4311,Used,8999.0,"Orlando, Florida, United States",2011,20997,Other,BMW,No,K 1300 S
 4312,Used,12897.0,"Round Rock, Texas, United States",2011,31030,Orange,Harley-Davidson,No,FLTRX - Road Glide Custom
 4313,Used,8000.0,"Atlanta, Georgia, United States",2013,8200,Red,Ducati,No,Diavel Red Carbon
-4314,Used,4100.0,"Orlando, Florida, United States",2015,1673,Brown,Royal Enfield,No,Classic
+4314,Used,4100.0,"Orlando, Florida, United States",2015,1673,Brown,Other,No,Classic
 4315,Used,5200.0,"Grapevine, Texas, United States",2005,2760,Green,Triumph,No,Bonneville
 4316,Used,2200.0,"Tampa, Florida, United States",2005,29400,Black,Triumph,No,Bonneville
 4317,Used,17999.0,"Shawnee, Oklahoma, United States",2014,6053,Other,Yamaha,No,Roadliner
@@ -3428,12 +3428,12 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4322,Used,14500.0,"Hayfield, Minnesota, United States",2006,25000,Blue,Custom Built Motorcycles,No,Street Glide
 4323,Used,8990.0,"Dallas, Texas, United States",1975,8013,Blue,Harley-Davidson,No,FLH 1200 Shovelhead
 4324,Used,19996.0,"Dallas, Texas, United States",2016,7030,Silver,Harley-Davidson,No,FLHTKL - Ultra Limited Low
-4325,Used,7300.0,"Palos Verdes Peninsula, California, United States",2007,4495,Other,Moto Guzzi,No,Breva V 1100
-4326,Used,2750.0,"Monroe Township, New Jersey, United States",2007,5250,Gray,Aprilia,No,Scarabeo
-4327,Used,35800.0,"Utica, Michigan, United States",2011,5100,Red,Boss Hoss,No,
+4325,Used,7300.0,"Palos Verdes Peninsula, California, United States",2007,4495,Other,Other,No,Breva V 1100
+4326,Used,2750.0,"Monroe Township, New Jersey, United States",2007,5250,Gray,Other,No,Scarabeo
+4327,Used,35800.0,"Utica, Michigan, United States",2011,5100,Red,Other,No,
 4328,Used,6500.0,"New York, New York, United States",2012,2991,Black,Ducati,No,Monster
 4329,Used,12995.0,"Orlando, Florida, United States",2016,2738,Other,BMW,No,F 800 GS Adventure
-4331,New,11500.0,"Saint Louis, Missouri, United States",2013,1400,Orange,KTM,No,1190 RC8R
+4331,New,11500.0,"Saint Louis, Missouri, United States",2013,1400,Orange,Other,No,1190 RC8R
 4332,Used,11500.0,"San Marcos, California, United States",2015,2429,Red,Ducati,No,Monster
 4333,Used,500.0,"Shawnee, Oklahoma, United States",2004,9306,Other,Harley-Davidson,No,Softail
 4334,Used,4750.0,"Nitro, West Virginia, United States",2006,31447,Metallic,Suzuki,No,Boulevard
@@ -3453,8 +3453,8 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4349,Used,9500.0,"Marietta, Georgia, United States",2011,8500,Black,Suzuki,No,Hayabusa
 4352,Used,6000.0,"Manteno, Illinois, United States",2008,22626,Red,Can-Am,No,Spyder
 4353,Used,2500.0,"Clermont, Florida, United States",2004,27000,Blue,Suzuki,No,GSX-R
-4354,Used,4100.0,"Orlando, Florida, United States",2015,1673,Brown,Royal Enfield,No,Classic
-4355,Used,309.0,"Vernon-Rockville, Connecticut, United States",2007,7500,Black,Buell,No,Blast
+4354,Used,4100.0,"Orlando, Florida, United States",2015,1673,Brown,Other,No,Classic
+4355,Used,309.0,"Vernon-Rockville, Connecticut, United States",2007,7500,Black,Other,No,Blast
 4357,Used,7700.0,"Worcester, Massachusetts, United States",2013,7300,Black,Ducati,No,Hypermotard
 4358,Used,4980.0,"Sterling, Virginia, United States",2008,14894,Black,Suzuki,No,Bandit
 4359,Used,3500.0,"Middlesex, New Jersey, United States",1981,30000,Orange,Yamaha,No,XS
@@ -3476,13 +3476,13 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4383,Used,4199.0,"Beech Grove, Indiana, United States",2007,5100,Blue,Yamaha,No,Road Star
 4384,Used,12660.0,"Round Rock, Texas, United States",2015,2541,Black,Harley-Davidson,No,FXDWG - Dyna Wide Glide
 4387,Used,910.0,"Bentonville, Arkansas, United States",2012,11300,Yellow,Triumph,No,Tiger
-4388,Used,2200.0,"Greensburg, Indiana, United States",1977,5000,Other,Moto Guzzi,No,V1000
+4388,Used,2200.0,"Greensburg, Indiana, United States",1977,5000,Other,Other,No,V1000
 4389,Used,3450.0,"Saint Louis, Missouri, United States",1977,1000,Other,Suzuki,No,RM
 4390,Used,12000.0,"San Jose, California, United States",1964,200,Other,Triumph,No,Bonneville
 4391,Used,1500.0,"New York, New York, United States",1981,2301,Blue,Honda,No,CA
 4392,Used,2950.0,"Los Gatos, California, United States",1995,17200,Other,Honda,No,Magna
 4393,Used,7450.0,"Dallas, Texas, United States",2016,556,Black,Harley-Davidson,No,XL883N - Sportster Iron 883
-4394,Used,7000.0,"New Haven, Connecticut, United States",2014,2112,Red,MV Agusta,No,Brutale 800 EAS
+4394,Used,7000.0,"New Haven, Connecticut, United States",2014,2112,Red,Other,No,Brutale 800 EAS
 4395,Used,4650.0,"Bensalem, Pennsylvania, United States",2016,3686,Black,Yamaha,No,FZ-07
 4396,Used,9995.0,"Springfield, Missouri, United States",2016,1586,White,Victory,Yes,High Ball
 4398,Used,3200.0,"Huntington Station, New York, United States",2001,9500,Other,Yamaha,No,Road Star
@@ -3500,7 +3500,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4411,Used,100.0,"Durham, North Carolina, United States",2017,1339,Other,Harley-Davidson,No,FXSE - CVO™ Pro Street Breakout®
 4412,Used,102.0,"Higganum, Connecticut, United States",1988,14000,Blue,Suzuki,No,GSX / Katana
 4413,Used,500.0,"Scott City, Missouri, United States",2015,15169,Black,Harley-Davidson,Yes,Electra Glide Standard Police
-4415,Used,2500.0,"Fort Worth, Texas, United States",1969,10765,Other,BSA,No,Shooting Star
+4415,Used,2500.0,"Fort Worth, Texas, United States",1969,10765,Other,Other,No,Shooting Star
 4416,Used,19577.0,"Scott City, Missouri, United States",2014,16922,Black,Harley-Davidson,Yes,FLHTK - Ultra Limited
 4417,Used,15895.0,"Marion, Illinois, United States",2007,5244,Black,Harley-Davidson,No,FXSTB - Night Train™
 4418,Used,17500.0,"Kalispell, Montana, United States",2016,5400,White,Can-Am,Yes,Spyder F3S SE6
@@ -3516,8 +3516,8 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4429,Used,11999.0,"Shawnee, Oklahoma, United States",2001,14985,Blue,Harley-Davidson,No,Softail
 4430,Used,4000.0,"Elkton, Maryland, United States",2000,26000,Other,Other,No,
 4431,Used,11000.0,"Gardner, Massachusetts, United States",2012,4330,Blue,BMW,No,S1000RR
-4432,Used,1275.0,"Antioch, California, United States",2003,8800,Red,Aprilia,No,SL1000R
-4433,Used,2200.0,"Greensburg, Indiana, United States",1977,5000,Other,Moto Guzzi,No,V1000
+4432,Used,1275.0,"Antioch, California, United States",2003,8800,Red,Other,No,SL1000R
+4433,Used,2200.0,"Greensburg, Indiana, United States",1977,5000,Other,Other,No,V1000
 4434,Used,7100.0,"Huntingdon Valley, Pennsylvania, United States",1999,17500,Black,Honda,No,Valkyrie
 4435,Used,1500.0,"New York, New York, United States",1981,2301,Blue,Honda,No,CA
 4436,Used,3996.0,"Dallas, Texas, United States",2014,1636,Red,Honda,No,CTX 700N
@@ -3529,7 +3529,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4442,Used,30960.0,"Dallas, Texas, United States",2016,5439,Red,Harley-Davidson,No,FLHTKSE - Screamin Eagle Limited CVO
 4444,Used,2000.0,"San Marcos, California, United States",1993,25458,Silver,Suzuki,No,GSX / Katana
 4447,Used,3490.0,"Dallas, Texas, United States",2000,19449,Other,Harley-Davidson,No,XL883 - Sportster 883 Hugger Managers Special
-4448,Used,550.0,"Gilbert, Arizona, United States",2010,14052,White,KTM,No,RC8r
+4448,Used,550.0,"Gilbert, Arizona, United States",2010,14052,White,Other,No,RC8r
 4449,Used,9000.0,"Bowie, Maryland, United States",2006,8000,Red,Suzuki,No,GXS-R
 4451,Used,11000.0,"Windber, Pennsylvania, United States",2013,11210,Blue,Can-Am,No,Spyder
 4452,Used,3490.0,"Dallas, Texas, United States",2000,19449,Other,Harley-Davidson,No,XL883 - Sportster 883 Hugger Managers Special
@@ -3539,12 +3539,12 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4458,Used,7295.0,"Harrisburg, Pennsylvania, United States",2009,7769,Red,Ducati,No,Monster
 4459,Used,590.0,"Brookfield, Connecticut, United States",2013,6266,Metallic,BMW,No,K-Series
 4460,Used,7950.0,"Round Rock, Texas, United States",2007,24236,Red,Victory,No,Other
-4461,Used,12999.0,"San Diego, California, United States",2015,6250,Black,KTM,No,1290 Super Duke R
+4461,Used,12999.0,"San Diego, California, United States",2015,6250,Black,Other,No,1290 Super Duke R
 4462,Used,305.0,"Suncook, New Hampshire, United States",2016,2411,Black,Harley-Davidson,No,Street™
-4463,Used,2500.0,"Fort Worth, Texas, United States",1969,10765,Other,BSA,No,Shooting Star
+4463,Used,2500.0,"Fort Worth, Texas, United States",1969,10765,Other,Other,No,Shooting Star
 4464,Used,8500.0,"Cuyahoga Falls, Ohio, United States",1999,9123,Gold,Suzuki,No,Bandit
 4466,Used,4550.0,"Suncook, New Hampshire, United States",2011,4123,Black,Harley-Davidson,No,Sportster
-4467,Used,7500.0,"Asbury Park, New Jersey, United States",2007,3500,Brown,Ural,No,Other
+4467,Used,7500.0,"Asbury Park, New Jersey, United States",2007,3500,Brown,Other,No,Other
 4468,Used,17500.0,"Kalispell, Montana, United States",2016,5400,White,Can-Am,Yes,Spyder F3S SE6
 4469,Used,8980.0,"Bethlehem, Pennsylvania, United States",2012,15000,Red,Ducati,No,Multistrada
 4470,Used,1800.0,"Welches, Oregon, United States",1996,9938,White,Yamaha,No,Virago
@@ -3569,7 +3569,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4498,Used,6350.0,"Sparta, North Carolina, United States",2014,320,White,Other,No,520RS
 4499,Used,12250.0,"Mesa, Arizona, United States",2015,5400,Red,Ducati,Yes,Monster
 4501,Used,6000.0,"Dalton, Pennsylvania, United States",2000,30000,Silver,Harley-Davidson,No,Dyna Super Glide
-4503,Used,7500.0,"Asbury Park, New Jersey, United States",2007,3500,Brown,Ural,No,Other
+4503,Used,7500.0,"Asbury Park, New Jersey, United States",2007,3500,Brown,Other,No,Other
 4504,New,16700.0,"Keokuk, Iowa, United States",2015,632,Orange,Can-Am,Yes,F3-S
 4505,Used,9995.0,"Castaic, California, United States",2011,6328,Other,Ducati,No,Supersport
 4506,Used,3699.0,"Ridgefield, New Jersey, United States",1994,275,Red,Honda,No,CT
@@ -3584,7 +3584,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4517,Used,5650.0,"Roaring Gap, North Carolina, United States",2007,11700,Red,Ducati,No,Multistrada
 4518,Used,10992.0,"Scott City, Missouri, United States",2014,3373,Black,Harley-Davidson,No,Dyna Wide Glide
 4519,Used,19000.0,"Suncook, New Hampshire, United States",2016,200,Blue,Harley-Davidson,No,FLHTCUTG TRIGLIDE ULTRA CLASSIC
-4521,Used,1125.0,"Peoria, Illinois, United States",1968,10436,Other,BSA,No,
+4521,Used,1125.0,"Peoria, Illinois, United States",1968,10436,Other,Other,No,
 4522,Used,5760.0,"Dallas, Texas, United States",1987,27482,Blue,Harley-Davidson,No,FXRC - Low Glide Custom
 4523,Used,13495.0,"Boynton Beach, Florida, United States",2014,908,Orange,Harley-Davidson,No,Night Rod Special VRSCDX VRod
 4524,Used,5600.0,"Scott City, Missouri, United States",2016,1717,Black,Harley-Davidson,Yes,Street Glide
@@ -3594,8 +3594,8 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4531,Used,500.0,"Shawnee, Oklahoma, United States",2012,4920,Other,Yamaha,No,Royal Star
 4532,Used,10995.0,"Boynton Beach, Florida, United States",2009,16357,Red,Harley-Davidson,No,Deluxe FLSTN
 4535,Used,610.0,"Suncook, New Hampshire, United States",2016,6952,Blue,Harley-Davidson,No,Street™
-4536,Used,46988.0,"Daytona Beach, Florida, United States",2014,4376,Red,Campagna,No,T-Rex
-4537,Used,12100.0,"Phoenix, Arizona, United States",2005,12900,Other,Big Dog,No,Chopper
+4536,Used,46988.0,"Daytona Beach, Florida, United States",2014,4376,Red,Other,No,T-Rex
+4537,Used,12100.0,"Phoenix, Arizona, United States",2005,12900,Other,Other,No,Chopper
 4538,New,22997.0,"Leesburg, Virginia, United States",2016,600,Blue,Can-Am,Yes,Spyder RT-S
 4539,Used,17960.0,"Dallas, Texas, United States",2015,4548,Orange,BMW,No,K-Series
 4541,Used,1525.0,"Suncook, New Hampshire, United States",2000,15644,Silver,Kawasaki,No,Vulcan
@@ -3613,9 +3613,9 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4554,Used,2025.0,"Durham, North Carolina, United States",2017,1625,Other,Harley-Davidson,No,FXDB - Street Bob®
 4555,Used,3650.0,"Dallas, Texas, United States",2008,23757,Blue,Yamaha,No,FZ 6
 4556,Used,3995.0,"Fort Worth, Texas, United States",2007,9045,Silver,Kawasaki,No,Vulcan
-4557,Used,6000.0,"Washington, District Of Columbia, United States",2016,1500,Silver,Moto Guzzi,No,V7 II
+4557,Used,6000.0,"Washington, District Of Columbia, United States",2016,1500,Silver,Other,No,V7 II
 4558,Used,74.0,"Helotes, Texas, United States",2001,27219,Red,Custom Built Motorcycles,No,Bobber
-4559,Used,2225.0,"Newbury Park, California, United States",2007,30000,Blue,Aprilia,No,TUONO 1000
+4559,Used,2225.0,"Newbury Park, California, United States",2007,30000,Blue,Other,No,TUONO 1000
 4560,Used,6650.0,"Las Vegas, Nevada, United States",1970,18681,Green,Triumph,No,Trophy
 4561,Used,12490.0,"Dallas, Texas, United States",2016,1087,Black,Harley-Davidson,No,FXDF - Dyna Fat Bob
 4562,Used,6900.0,"St George Brant, Ontario, Canada",2007,16500,Red,Ducati,No,Monster
@@ -3626,7 +3626,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4568,Used,3700.0,"Cape Coral, Florida, United States",2001,15789,Other,Suzuki,No,Hayabusa
 4569,Used,2200.0,"Corte Madera, California, United States",2001,248,Other,Suzuki,No,DR
 4570,Used,16460.0,"Round Rock, Texas, United States",2016,613,Black,Harley-Davidson,No,FLSTFBS - Fat Boy S
-4571,Used,8495.0,"Mankato, Minnesota, United States",2014,149,Other,KTM,No,690 Enduro R ABS
+4571,Used,8495.0,"Mankato, Minnesota, United States",2014,149,Other,Other,No,690 Enduro R ABS
 4574,Used,6500.0,"Lexington, Kentucky, United States",1966,900,Other,Triumph,No,Bonneville
 4575,Used,1899.0,"Herndon, Virginia, United States",2004,15000,Yellow,Triumph,No,Speed Four
 4576,Used,102.0,"Pahrump, Nevada, United States",1998,10000,Red,Suzuki,No,GSX / Katana
@@ -3641,20 +3641,20 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4585,Used,14997.0,"Round Rock, Texas, United States",2015,2089,Black,Harley-Davidson,No,FLHR - Road King
 4587,Used,2350.0,"Red Bluff, California, United States",1988,8750,Blue,Ducati,No,750 Paso
 4588,Used,20981.0,"Marion, Illinois, United States",2016,4163,Blue,Harley-Davidson,No,FLHTK - Ultra Limited
-4589,Used,4345.0,"Mentone, Indiana, United States",2004,25450,Red,Aprilia,No,Tuono
+4589,Used,4345.0,"Mentone, Indiana, United States",2004,25450,Red,Other,No,Tuono
 4590,Used,18000.0,"Malvern, Ohio, United States",2001,2266,Other,Ducati,No,mh900e
 4591,Used,6100.0,"Suncook, New Hampshire, United States",2016,791,Silver,Harley-Davidson,No,Sportster
-4593,Used,14350.0,"Elk Grove, California, United States",2015,723,Red,MV Agusta,No,Brutale
+4593,Used,14350.0,"Elk Grove, California, United States",2015,723,Red,Other,No,Brutale
 4594,Used,31000.0,"Pukekohe, Auckland, New Zealand",1958,16000,Brown,Other,No,Square Four
 4595,Used,11995.0,"Boynton Beach, Florida, United States",2012,14718,Orange,Harley-Davidson,No,Heritage Classic FLSTC
-4597,Used,5101.0,"Greenville, New Hampshire, United States",1968,8500,Black,Royal Enfield,No,Interceptor Series 1A
+4597,Used,5101.0,"Greenville, New Hampshire, United States",1968,8500,Black,Other,No,Interceptor Series 1A
 4598,Used,4470.0,"Dallas, Texas, United States",2007,18643,Blue,Suzuki,No,V-Strom 650
-4599,Used,4250.0,"Redmond, Washington, United States",2015,4064,White,KTM,No,390
+4599,Used,4250.0,"Redmond, Washington, United States",2015,4064,White,Other,No,390
 4600,Used,6980.0,"Sterling, Virginia, United States",2011,19692,Gray,BMW,No,F800ST
 4602,Used,16980.0,"Round Rock, Texas, United States",2015,18404,Black,Harley-Davidson,No,FLHTK - Ultra Limited
 4603,Used,74.0,"Helotes, Texas, United States",2001,27219,Red,Custom Built Motorcycles,No,Bobber
 4604,Used,17497.0,"Dallas, Texas, United States",2017,3299,Black,Harley-Davidson,No,FLHR - Road King
-4605,Used,5800.0,"Vernon, New Jersey, United States",2008,7055,Other,Buell,No,Lightning
+4605,Used,5800.0,"Vernon, New Jersey, United States",2008,7055,Other,Other,No,Lightning
 4606,Used,14995.0,"Boynton Beach, Florida, United States",2013,18517,Black,Harley-Davidson,No,Ultra Limited
 4608,Used,4051.0,"Suncook, New Hampshire, United States",2008,18391,Brown,Triumph,No,Rocket III
 4610,Used,7500.0,"Grapevine, Texas, United States",2013,2934,Other,Triumph,No,Tiger
@@ -3662,43 +3662,43 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4612,Used,9995.0,"Daytona Beach, Florida, United States",2015,333,Other,BMW,No,F 800 GT
 4613,Used,3999.0,"Denver, Colorado, United States",2002,7820,Blue,Triumph,No,Sprint
 4614,Used,7996.0,"Dallas, Texas, United States",2017,482,Black,Harley-Davidson,No,XL883N - Sportster Iron 883
-4615,Used,13900.0,"Myrtle Beach, South Carolina, United States",2008,17000,Black,Big Dog,No,K9
-4616,Used,10125.0,"Farmington, New Mexico, United States",2005,13262,Blue,American Classic Motors,No,Harley Davidson
+4615,Used,13900.0,"Myrtle Beach, South Carolina, United States",2008,17000,Black,Other,No,K9
+4616,Used,10125.0,"Farmington, New Mexico, United States",2005,13262,Blue,Other,No,Harley Davidson
 4617,Used,16999.0,"El Paso, Texas, United States",2017,2231,Black,Harley-Davidson,No,Softail
 4618,Used,30000.0,"Elmont, New York, United States",2003,2000,Gray,Custom Built Motorcycles,No,Pro Street
-4619,Used,3950.0,"Jamestown, North Carolina, United States",2007,20000,Gray,Aprilia,No,
+4619,Used,3950.0,"Jamestown, North Carolina, United States",2007,20000,Gray,Other,No,
 4621,Used,21995.0,"Tucson, Arizona, United States",2016,5881,Red,Harley-Davidson,No,Touring
 4622,Used,4949.0,"Springfield, Vermont, United States",2010,4798,Other,Triumph,No,Bonneville
 4623,Used,9950.0,"Round Rock, Texas, United States",2008,17543,White,Harley-Davidson,No,FLHRC - Road King Classic
 4624,Used,9950.0,"Round Rock, Texas, United States",2012,9586,Black,Kawasaki,No,Vulcan 1700 Voyager ABS VN1700BC
-4626,Used,3100.0,"Corning, California, United States",2009,200,Other,KTM,No,XC-F
+4626,Used,3100.0,"Corning, California, United States",2009,200,Other,Other,No,XC-F
 4627,Used,11000.0,"Rock Hill, South Carolina, United States",2009,8148,Black,Ducati,No,Sport Classic
 4628,Used,7700.0,"Cleburne, Texas, United States",2014,12519,Black,Honda,No,Gold Wing F6B® Deluxe
 4630,Used,5500.0,"Milford, Delaware, United States",2007,2295,White,Victory,No,Vegas
-4632,Used,46900.0,"Charles Town, West Virginia, United States",2012,2297,Other,Boss Hoss,No,Trike
+4632,Used,46900.0,"Charles Town, West Virginia, United States",2012,2297,Other,Other,No,Trike
 4633,Used,16992.0,"Scott City, Missouri, United States",2015,12075,Red,Harley-Davidson,No,Street Glide
 4634,Used,5110.0,"Springfield, Virginia, United States",2012,7521,Red,Ducati,No,Monster
 4636,Used,8200.0,"Garden City, New York, United States",2016,854,Red,Victory,No,Vegas
 4637,Used,7000.0,"Fairview, New Jersey, United States",2011,1300,Black,Triumph,No,Daytona
 4638,Used,14750.0,"Dallas, Texas, United States",2008,13862,Silver,Harley-Davidson,No,FLHTCUSE3 - Screamin Eagle Ultra Classic CVO
-4639,New,10000.0,"Staten Island, New York, United States",2017,1200,Orange,KTM,Yes,690
-4641,New,61296.0,"Daytona Beach, Florida, United States",2017,1271,Yellow,Campagna,Yes,T-Rex
-4642,Used,24900.0,"Middletown, New York, United States",2008,1400,Other,Bourget,No,Python
-4643,Used,4100.0,"Bennington, Vermont, United States",2015,500,Other,KTM,No,XC-F
+4639,New,10000.0,"Staten Island, New York, United States",2017,1200,Orange,Other,Yes,690
+4641,New,61296.0,"Daytona Beach, Florida, United States",2017,1271,Yellow,Other,Yes,T-Rex
+4642,Used,24900.0,"Middletown, New York, United States",2008,1400,Other,Other,No,Python
+4643,Used,4100.0,"Bennington, Vermont, United States",2015,500,Other,Other,No,XC-F
 4644,Used,7492.0,"Round Rock, Texas, United States",2006,18825,Black,Harley-Davidson,No,FXSTB - Night Train
-4645,Used,2500.0,"Rosedale, Maryland, United States",2004,15178,Brown,Aprilia,No,SCARABEO 500
+4645,Used,2500.0,"Rosedale, Maryland, United States",2004,15178,Brown,Other,No,SCARABEO 500
 4647,Used,5500.0,"Lusby, Maryland, United States",2001,16000,Yellow,Victory,No,SPORT CRUISER
-4648,Used,3000.0,"Middletown, Delaware, United States",2009,1900,Red,Aprilia,No,RS125
+4648,Used,3000.0,"Middletown, Delaware, United States",2009,1900,Red,Other,No,RS125
 4649,Used,16992.0,"Scott City, Missouri, United States",2014,14505,Black,Harley-Davidson,No,Street Glide Special
 4650,Used,7492.0,"Round Rock, Texas, United States",2006,18825,Black,Harley-Davidson,No,FXSTB - Night Train
-4651,Used,2500.0,"Rosedale, Maryland, United States",2004,15178,Brown,Aprilia,No,SCARABEO 500
+4651,Used,2500.0,"Rosedale, Maryland, United States",2004,15178,Brown,Other,No,SCARABEO 500
 4653,Used,5500.0,"Lusby, Maryland, United States",2001,16000,Yellow,Victory,No,SPORT CRUISER
-4654,Used,2000.0,"Charleston, West Virginia, United States",2014,300,Other,KTM,No,SX
-4655,Used,3000.0,"Middletown, Delaware, United States",2009,1900,Red,Aprilia,No,RS125
+4654,Used,2000.0,"Charleston, West Virginia, United States",2014,300,Other,Other,No,SX
+4655,Used,3000.0,"Middletown, Delaware, United States",2009,1900,Red,Other,No,RS125
 4656,Used,16992.0,"Scott City, Missouri, United States",2014,14505,Black,Harley-Davidson,No,Street Glide Special
 4657,Used,9980.0,"Sterling, Virginia, United States",2007,23203,Black,Harley-Davidson,No,FLHX - Street Glide
-4658,Used,40000.0,"Richmond Hill, Ontario, Canada",2012,14000,Gray,Campagna,No,T-Rex
-4659,Used,9500.0,"North Hollywood, California, United States",1999,7049,Red,Bimota,No,SB8R
+4658,Used,40000.0,"Richmond Hill, Ontario, Canada",2012,14000,Gray,Other,No,T-Rex
+4659,Used,9500.0,"North Hollywood, California, United States",1999,7049,Red,Other,No,SB8R
 4660,Used,3750.0,"Punta Gorda, Florida, United States",1999,7150,Red,Triumph,No,Legend
 4663,Used,15521.0,"Marion, Illinois, United States",2012,11055,Yellow,Harley-Davidson,No,FLTRX - Road Glide® Custom
 4664,Used,20500.0,"Waterloo, Iowa, United States",2016,5620,Blue,Harley-Davidson,No,FLHTCU - Electra Glide® Ultra Classic®
@@ -3707,15 +3707,15 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4668,Used,39999.0,"Dallas, Texas, United States",2014,5504,Black,Harley-Davidson,No,FLHX - Street Glide
 4669,Used,1750.0,"Island Park, New York, United States",2001,27000,White,Triumph,No,Sprint
 4670,Used,8248.0,"Ridgeland, Mississippi, United States",2013,10458,Black,Triumph,No,Tiger
-4671,Used,16987.0,"Kaysville, Utah, United States",2007,5597,Black,Big Dog,No,K9
-4672,Used,14567.0,"Kaysville, Utah, United States",2006,11418,Black,Big Dog,No,K9
-4673,Used,11795.0,"Arlington, Texas, United States",2005,2878,Red,Big Dog,No,Chopper
+4671,Used,16987.0,"Kaysville, Utah, United States",2007,5597,Black,Other,No,K9
+4672,Used,14567.0,"Kaysville, Utah, United States",2006,11418,Black,Other,No,K9
+4673,Used,11795.0,"Arlington, Texas, United States",2005,2878,Red,Other,No,Chopper
 4677,Used,810.0,"Fayetteville, North Carolina, United States",2011,8398,Orange,Honda,No,Fury® ABS
 4678,Used,100.0,"Durham, North Carolina, United States",2015,21779,Other,Harley-Davidson,No,FLHR - Road King®
 4679,Used,21000.0,"Milford, Massachusetts, United States",2015,1440,Black,Victory,No,Magnum
 4681,Used,9995.0,"Orlando, Florida, United States",2015,333,Blue,BMW,No,F 800 GT
 4682,Used,6570.0,"Dallas, Texas, United States",2015,6905,Black,Harley-Davidson,No,XL883N - Sportster Iron 883
-4683,Used,7000.0,"Hecla, South Dakota, United States",2004,4785,Blue,American Ironhorse,No,Texas Chopper
+4683,Used,7000.0,"Hecla, South Dakota, United States",2004,4785,Blue,Other,No,Texas Chopper
 4684,Used,21995.0,"Tucson, Arizona, United States",2016,5881,Red,Harley-Davidson,No,Touring
 4686,Used,405.0,"Durham, North Carolina, United States",2014,11402,Other,Harley-Davidson,No,FLHX - Street Glide®
 4688,Used,2425.0,"West Des Moines, Iowa, United States",2010,10780,Black,Triumph,No,Street Triple
@@ -3725,8 +3725,8 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4692,Used,6500.0,"Brainerd, Minnesota, United States",2003,5500,Yellow,Custom Built Motorcycles,No,
 4693,Used,6750.0,"Dallas, Texas, United States",2017,210,Black,Harley-Davidson,No,XG750 - Street 750
 4695,Used,9850.0,"Hartford, Connecticut, United States",1978,15802,Red,Ducati,No,Darmah SD900
-4696,Used,9999.0,"Siloam Springs, Arkansas, United States",2007,15900,Other,KTM,No,super enduro
-4697,Used,4001.0,"Delmar, New York, United States",2007,9178,Red,MV Agusta,No,F4 1000R
+4696,Used,9999.0,"Siloam Springs, Arkansas, United States",2007,15900,Other,Other,No,super enduro
+4697,Used,4001.0,"Delmar, New York, United States",2007,9178,Red,Other,No,F4 1000R
 4698,Used,1.0,"New Castle, Delaware, United States",2007,22969,Other,Suzuki,No,Bandit
 4699,Used,250.0,"Suncook, New Hampshire, United States",2008,16514,Yellow,Suzuki,No,Boulevard
 4700,Used,8348.0,"Ridgeland, Mississippi, United States",2014,11094,Blue,Triumph,No,Tiger
@@ -3734,7 +3734,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4702,Used,10995.0,"Boynton Beach, Florida, United States",2007,18153,Red,Harley-Davidson,No,FLHX - Street Glide
 4703,Used,3990.0,"Eugene, Oregon, United States",1999,16500,Red,Ducati,No,Supersport
 4704,Used,500.0,"Scott City, Missouri, United States",2007,33803,Black,Harley-Davidson,Yes,Street Glide
-4705,Used,3900.0,"Southbury, Connecticut, United States",2005,26700,Orange,KTM,No,Adventure
+4705,Used,3900.0,"Southbury, Connecticut, United States",2005,26700,Orange,Other,No,Adventure
 4706,Used,13000.0,"Osceola, Missouri, United States",2000,11184,Blue,Other,No,Big Brute
 4707,Used,22991.0,"Scott City, Missouri, United States",2017,1482,Black,Harley-Davidson,No,Road Glide Ultra
 4709,Used,16999.0,"Kaysville, Utah, United States",2014,150,Orange,Custom Built Motorcycles,No,Chopper
@@ -3746,44 +3746,44 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4716,Used,19500.0,"Waterloo, Iowa, United States",2015,4623,Black,Harley-Davidson,No,FLTRXS - Road Glide® Special
 4717,Used,910.0,"Suncook, New Hampshire, United States",2012,4557,White,Ducati,No,848 EVO
 4718,Used,100.0,"Durham, North Carolina, United States",2015,26039,Other,Harley-Davidson,No,FLHTK - Ultra Limited
-4719,Used,13000.0,"Hamilton, Illinois, United States",2006,5800,Other,Big Dog,No,K9
+4719,Used,13000.0,"Hamilton, Illinois, United States",2006,5800,Other,Other,No,K9
 4720,Used,100.0,"Durham, North Carolina, United States",2001,37208,Other,Harley-Davidson,No,FLHTCU
 4722,Used,17500.0,"Liverpool, New York, United States",2015,2750,Black,Can-Am,Yes,RT
 4723,Used,9896.0,"Dallas, Texas, United States",2017,1231,Black,Harley-Davidson,No,XL1200X  Forty-Eight
-4724,Used,7999.0,"Osseo, Minnesota, United States",2014,2800,Other,MV Agusta,No,F3 800
-4726,Used,6895.0,"Hunker, Pennsylvania, United States",2007,25200,Black,KTM,No,Adventure
-4727,New,56297.0,"Daytona Beach, Florida, United States",2017,1375,Red,Campagna,Yes,T-Rex
-4730,Used,7800.0,"Marco Island, Florida, United States",2004,3500,Red,American Ironhorse,No,LSC
+4724,Used,7999.0,"Osseo, Minnesota, United States",2014,2800,Other,Other,No,F3 800
+4726,Used,6895.0,"Hunker, Pennsylvania, United States",2007,25200,Black,Other,No,Adventure
+4727,New,56297.0,"Daytona Beach, Florida, United States",2017,1375,Red,Other,Yes,T-Rex
+4730,Used,7800.0,"Marco Island, Florida, United States",2004,3500,Red,Other,No,LSC
 4731,Used,5100.0,"Houston, Texas, United States",2014,3683,Red,Victory,No,High Ball
-4732,Used,15695.0,"Laguna Hills, California, United States",2015,850,Gray,Ural,No,Gear Up
+4732,Used,15695.0,"Laguna Hills, California, United States",2015,850,Gray,Other,No,Gear Up
 4736,Used,13470.0,"Dallas, Texas, United States",2012,34531,Silver,BMW,No,K-Series
 4737,Used,8495.0,"Springfield, Missouri, United States",2016,517,Red,Victory,No,Vegas
 4738,Used,6000.0,"Adams, Tennessee, United States",2013,30400,Other,Victory,No,Vision
-4739,Used,5500.0,"Albuquerque, New Mexico, United States",2009,2300,Black,Buell,No,Lightning
+4739,Used,5500.0,"Albuquerque, New Mexico, United States",2009,2300,Black,Other,No,Lightning
 4740,New,11787.0,"Plano, Texas, United States",2016,187,Blue,BMW,No,R 1200 R Premium Cordoba Blue
 4741,Used,9790.0,"Dallas, Texas, United States",2008,8509,Black,Harley-Davidson,No,FXCWC - Rocker C Managers Special
-4742,Used,5500.0,"Hebron, Kentucky, United States",2009,29000,Other,Buell,No,Firebolt
+4742,Used,5500.0,"Hebron, Kentucky, United States",2009,29000,Other,Other,No,Firebolt
 4743,Used,7896.0,"Dallas, Texas, United States",2017,889,Gold,Harley-Davidson,No,XL883N - Sportster Iron 883
 4744,Used,8300.0,"Sparks, Nevada, United States",2016,4653,Black,BMW,Yes,S1000RR
-4745,Used,3900.0,"Nashville, Tennessee, United States",2007,13000,Black,KTM,No,690 SM
+4745,Used,3900.0,"Nashville, Tennessee, United States",2007,13000,Black,Other,No,690 SM
 4746,Used,250.0,"Suncook, New Hampshire, United States",2016,429,Gray,Harley-Davidson,No,Dyna
-4747,Used,9995.0,"Crownsville, Maryland, United States",2005,7500,Other,Big Dog,No,
-4748,Used,6000.0,"Lakeland, Florida, United States",2009,1626,Black,Buell,No,Thunderbolt
+4747,Used,9995.0,"Crownsville, Maryland, United States",2005,7500,Other,Other,No,
+4748,Used,6000.0,"Lakeland, Florida, United States",2009,1626,Black,Other,No,Thunderbolt
 4749,Used,4000.0,"Lawrenceville, Georgia, United States",2006,9831,Black,Suzuki,No,GSX-R
 4750,Used,4000.0,"Lawrenceville, Georgia, United States",2006,9831,Black,Suzuki,No,GSX-R
 4752,Used,910.0,"Suncook, New Hampshire, United States",2012,4557,White,Ducati,No,848 EVO
 4753,Used,250.0,"Suncook, New Hampshire, United States",2003,21934,Black,Suzuki,No,Intruder
-4754,Used,13000.0,"Hamilton, Illinois, United States",2006,5800,Other,Big Dog,No,K9
+4754,Used,13000.0,"Hamilton, Illinois, United States",2006,5800,Other,Other,No,K9
 4757,Used,2799.0,"Osseo, Minnesota, United States",2013,110,Other,Other,No,DOWNTOWN 300i
 4758,Used,1025.0,"Delbarton, West Virginia, United States",2015,10951,Black,Harley-Davidson,No,FLTRXS - Road Glide® Special
-4761,Used,7800.0,"Marco Island, Florida, United States",2004,3500,Red,American Ironhorse,No,LSC
+4761,Used,7800.0,"Marco Island, Florida, United States",2004,3500,Red,Other,No,LSC
 4762,Used,1275.0,"Acampo, California, United States",1970,4300,Gold,Honda,No,CT
 4763,Used,8300.0,"Cleburne, Texas, United States",2014,385,Silver,Harley-Davidson,No,FLSTNSE - CVO™ Softail® Deluxe
 4764,Used,13791.0,"Scott City, Missouri, United States",2013,9079,White,Harley-Davidson,No,Electra Glide Ultra Classic
 4765,Used,4470.0,"Dallas, Texas, United States",2016,393,Red,Honda,No,Forza
 4766,Used,3892.0,"Dallas, Texas, United States",2006,23887,Black,Honda,No,VTX 1800C Spec 1 Managers Special
 4767,Used,18791.0,"Scott City, Missouri, United States",2016,2261,White,Harley-Davidson,No,Street Glide
-4768,Used,650.0,"Hickory, North Carolina, United States",1980,1122,Yellow,American Classic Motors,No,
+4768,Used,650.0,"Hickory, North Carolina, United States",1980,1122,Yellow,Other,No,
 4770,Used,19750.0,"Dallas, Texas, United States",2016,3069,Black,Harley-Davidson,No,FLHXS - Street Glide Special
 4772,New,11787.0,"Plano, Texas, United States",2016,187,Blue,BMW,No,R 1200 R Premium Cordoba Blue
 4773,Used,7450.0,"Dallas, Texas, United States",2014,13873,Gray,BMW,No,F-Series
@@ -3793,53 +3793,53 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4777,Used,12472.0,"Round Rock, Texas, United States",2012,4640,Silver,Harley-Davidson,No,VRSC
 4778,Used,8300.0,"Sparks, Nevada, United States",2016,4653,Black,BMW,Yes,S1000RR
 4779,Used,500.0,"Scott City, Missouri, United States",2011,19393,Black,Harley-Davidson,Yes,Road Glide
-4781,Used,3500.0,"Export, Pennsylvania, United States",2005,2000,Orange,KTM,No,EXC
+4781,Used,3500.0,"Export, Pennsylvania, United States",2005,2000,Orange,Other,No,EXC
 4782,Used,7000.0,"Atlanta, Georgia, United States",2013,3900,Other,Suzuki,No,GSX-R
-4783,Used,9995.0,"Crownsville, Maryland, United States",2005,7500,Other,Big Dog,No,
+4783,Used,9995.0,"Crownsville, Maryland, United States",2005,7500,Other,Other,No,
 4784,New,4000.0,"Honolulu, Hawaii, United States",2015,150,Black,Honda,No,Rebel
-4787,Used,7800.0,"Spring Hill, Tennessee, United States",2013,1000,Red,American Classic Motors,No,Sportster
+4787,Used,7800.0,"Spring Hill, Tennessee, United States",2013,1000,Red,Other,No,Sportster
 4788,Used,1950.0,"Canal Winchester, Ohio, United States",2003,18500,Black,Honda,No,Shadow
-4789,Used,8875.0,"Boxborough, Massachusetts, United States",2012,5654,Black,Ural,No,Solo sT
+4789,Used,8875.0,"Boxborough, Massachusetts, United States",2012,5654,Black,Other,No,Solo sT
 4790,Used,3750.0,"Mahwah, New Jersey, United States",2007,3000,Red,Kawasaki,No,Vulcan
 4791,Used,3500.0,"Alexandria, Virginia, United States",1970,9860,Other,Triumph,No,Trophy
 4792,Used,8500.0,"Carthage, Mississippi, United States",2008,2700,Black,Suzuki,No,B-King
-4794,Used,10000.0,"Whitefish, Montana, United States",1997,2500,Red,Bimota,No,SB6R
+4794,Used,10000.0,"Whitefish, Montana, United States",1997,2500,Red,Other,No,SB6R
 4795,Used,1525.0,"Suncook, New Hampshire, United States",2001,27010,Red,Triumph,No,Sprint
-4796,Used,5200.0,"Rancho Cucamonga, California, United States",2014,490,Red,Husqvarna,No,Husqvarana
-4797,Used,6100.0,"Suncook, New Hampshire, United States",2017,857,Silver,Moto Guzzi,No,V9
-4798,Used,1250.0,"Capistrano Beach, California, United States",2014,4350,Black,Moto Guzzi,No,1400 California
+4796,Used,5200.0,"Rancho Cucamonga, California, United States",2014,490,Red,Other,No,Husqvarana
+4797,Used,6100.0,"Suncook, New Hampshire, United States",2017,857,Silver,Other,No,V9
+4798,Used,1250.0,"Capistrano Beach, California, United States",2014,4350,Black,Other,No,1400 California
 4800,Used,7980.0,"Sterling, Virginia, United States",2012,12304,Red,Triumph,No,Thunderbird
 4802,Used,15595.0,"Daytona Beach, Florida, United States",2016,8181,Other,Ducati,No,XDiavel
 4803,Used,19950.0,"Round Rock, Texas, United States",2011,15147,Black,Harley-Davidson,No,FLHXSE2 - Screamin Eagle CVO Street Glide
-4804,Used,6900.0,"Leesburg, Florida, United States",2006,4456,Black,Big Dog,No,Proper Chopper
+4804,Used,6900.0,"Leesburg, Florida, United States",2006,4456,Black,Other,No,Proper Chopper
 4805,Used,31970.0,"Dallas, Texas, United States",2016,2710,Black,Harley-Davidson,No,FLHXSE - Screamin Eagle CVO Street Glide
-4806,Used,1136.0,"Mount Enterprise, Texas, United States",2004,30000,Silver,Aprilia,No,Futura
-4808,Used,3900.0,"Northfield, Minnesota, United States",2000,14026,Gray,Moto Guzzi,No,V11 Sport
-4809,Used,5900.0,"Glendale, Arizona, United States",2014,9621,White,KTM,No,690 DUKE
-4811,Used,5800.0,"Santa Barbara, California, United States",2008,4293,Black,KTM,No,EXC
-4812,Used,6500.0,"Louisville, Kentucky, United States",1973,22581,Black,Moto Guzzi,No,Eldorado 850
+4806,Used,1136.0,"Mount Enterprise, Texas, United States",2004,30000,Silver,Other,No,Futura
+4808,Used,3900.0,"Northfield, Minnesota, United States",2000,14026,Gray,Other,No,V11 Sport
+4809,Used,5900.0,"Glendale, Arizona, United States",2014,9621,White,Other,No,690 DUKE
+4811,Used,5800.0,"Santa Barbara, California, United States",2008,4293,Black,Other,No,EXC
+4812,Used,6500.0,"Louisville, Kentucky, United States",1973,22581,Black,Other,No,Eldorado 850
 4815,Used,13960.0,"Round Rock, Texas, United States",2012,13094,Red,Harley-Davidson,No,FLHX - Street Glide
 4816,Used,4200.0,"Braintree, Massachusetts, United States",2000,13600,Other,Triumph,No,Daytona
 4817,Used,27495.0,"Boynton Beach, Florida, United States",2014,4545,Black,Harley-Davidson,No,Ultra Trike Tri Glide FLHTCUTG
-4818,Used,7800.0,"Columbus, Ohio, United States",2002,10000,Red,Big Dog,No,Boxer
+4818,Used,7800.0,"Columbus, Ohio, United States",2002,10000,Red,Other,No,Boxer
 4819,New,4000.0,"Honolulu, Hawaii, United States",2015,150,Black,Honda,No,Rebel
 4820,Used,14850.0,"Dallas, Texas, United States",2015,13033,Black,Harley-Davidson,No,FLHR - Road King
-4821,Used,600.0,"Transfer, Pennsylvania, United States",2007,300,Other,KTM,No,SX
+4821,Used,600.0,"Transfer, Pennsylvania, United States",2007,300,Other,Other,No,SX
 4822,Used,4200.0,"Wichita Falls, Texas, United States",2010,5050,Black,Triumph,No,America
-4823,Used,8875.0,"Boxborough, Massachusetts, United States",2012,5654,Black,Ural,No,Solo sT
-4824,Used,7100.0,"Beaumont, California, United States",2009,10357,Red,Moto Guzzi,No,Stelvio
+4823,Used,8875.0,"Boxborough, Massachusetts, United States",2012,5654,Black,Other,No,Solo sT
+4824,Used,7100.0,"Beaumont, California, United States",2009,10357,Red,Other,No,Stelvio
 4825,Used,3750.0,"Mahwah, New Jersey, United States",2007,3000,Red,Kawasaki,No,Vulcan
 4826,Used,11791.0,"Scott City, Missouri, United States",2006,5303,Black,Harley-Davidson,No,Street Glide
-4827,Used,10000.0,"Whitefish, Montana, United States",1997,2500,Red,Bimota,No,SB6R
+4827,Used,10000.0,"Whitefish, Montana, United States",1997,2500,Red,Other,No,SB6R
 4828,Used,11792.0,"Scott City, Missouri, United States",2006,5179,Black,Harley-Davidson,No,Street Glide
-4829,Used,11000.0,"Redmond, Washington, United States",2014,1756,Gray,MV Agusta,No,Brutale 800
+4829,Used,11000.0,"Redmond, Washington, United States",2014,1756,Gray,Other,No,Brutale 800
 4830,Used,500.0,"Daytona Beach, Florida, United States",2007,9366,Black,Suzuki,No,Boulevard
 4831,Used,10849.0,"Orlando, Florida, United States",2016,881,Other,Triumph,No,Tiger
 4832,Used,1025.0,"Durham, North Carolina, United States",2014,29666,Other,Harley-Davidson,No,FLHTK - Electra Glide® Ultra Limited
 4834,Used,6200.0,"Fair Lawn, New Jersey, United States",2012,11000,Blue,Suzuki,No,GSX-R
 4835,Used,9000.0,"Kaplan, Louisiana, United States",2010,4652,Black,Triumph,No,Thunderbird
 4836,Used,3280.0,"Round Rock, Texas, United States",2008,15632,White,Yamaha,No,V Star 1100 Classic XVS11AW
-4837,Used,9399.0,"Elmhurst, IL, United States",2013,5740,Black,MV Agusta,No,Brutale 1090
+4837,Used,9399.0,"Elmhurst, IL, United States",2013,5740,Black,Other,No,Brutale 1090
 4838,Used,11949.0,"Orlando, Florida, United States",2012,3896,Other,Ducati,No,Diavel Carbon
 4840,Used,14549.0,"Orlando, Florida, United States",2015,4733,Other,Ducati,No,Diavel Carbon
 4841,Used,3460.0,"Round Rock, Texas, United States",2006,25546,Orange,Honda,No,VTX 1300 C
@@ -3850,44 +3850,44 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4846,Used,21870.0,"Marion, Illinois, United States",2016,2806,Black,Harley-Davidson,No,FLHTK - Ultra Limited
 4849,New,27249.0,"Leesburg, Virginia, United States",2017,600,Yellow,Can-Am,Yes,SPYDER F3 S DAYTONA
 4850,Used,1500.0,"Suncook, New Hampshire, United States",2015,473,Red,Triumph,No,Daytona
-4851,Used,5900.0,"Glendale, Arizona, United States",2014,9621,White,KTM,No,690 DUKE
+4851,Used,5900.0,"Glendale, Arizona, United States",2014,9621,White,Other,No,690 DUKE
 4853,Used,29500.0,"Athens, Tennessee, United States",2013,9000,Orange,Custom Built Motorcycles,No,RF-1 LT2
 4854,Used,4500.0,"Roosevelt, Utah, United States",2006,19200,Orange,Victory,No,Hammer
-4857,Used,9800.0,"Utica, New York, United States",2016,2900,Other,KTM,No,EXC
-4858,Used,57000.0,"West Bloomfield, Michigan, United States",2016,1706,White,Campagna,No,T-Rex16S-P
+4857,Used,9800.0,"Utica, New York, United States",2016,2900,Other,Other,No,EXC
+4858,Used,57000.0,"West Bloomfield, Michigan, United States",2016,1706,White,Other,No,T-Rex16S-P
 4860,Used,250.0,"Suncook, New Hampshire, United States",2011,29490,Black,Harley-Davidson,No,FLHTK ELECTRA GLIDE ULTRA LIMITED
 4861,Used,13891.0,"Scott City, Missouri, United States",2007,14053,Blue,Harley-Davidson,No,Cvo Ultra Classic Electra Glide
 4862,Used,5995.0,"Farmingdale, New Jersey, United States",2007,6500,Black,Victory,No,Vegas 8 Ball
-4864,Used,600.0,"Transfer, Pennsylvania, United States",2007,300,Other,KTM,No,SX
+4864,Used,600.0,"Transfer, Pennsylvania, United States",2007,300,Other,Other,No,SX
 4866,Used,4200.0,"Wichita Falls, Texas, United States",2010,5050,Black,Triumph,No,America
 4867,Used,12500.0,"Hanover, Pennsylvania, United States",2013,17000,White,Can-Am,No,SPYDER ST LTD
 4868,Used,15995.0,"Boynton Beach, Florida, United States",2012,18023,Black,Harley-Davidson,No,FLHX - Street Glide
 4870,Used,15000.0,"Vanderbilt, Pennsylvania, United States",2014,768,Red,Can-Am,No,Spyder
 4871,Used,14900.0,"Union, New Jersey, United States",2014,646,Red,Can-Am,No,Spyder
-4872,Used,2025.0,"Williamston, Michigan, United States",1997,11689,Yellow,Big Dog,No,Pro Street
+4872,Used,2025.0,"Williamston, Michigan, United States",1997,11689,Yellow,Other,No,Pro Street
 4873,Used,2200.0,"Stone Harbor, New Jersey, United States",2005,10700,Black,Kawasaki,No,Vulcan
 4874,Used,3991.0,"Mansfield, Texas, United States",2008,8953,Blue,Suzuki,No,Boulevard
 4875,Used,5000.0,"Manchester, Connecticut, United States",1996,5093,Black,Triumph,No,Daytona
 4876,Used,22960.0,"Dallas, Texas, United States",2016,3226,Red,Harley-Davidson,No,FLHXS - Street Glide Special
-4878,Used,11000.0,"Redmond, Washington, United States",2014,1756,Gray,MV Agusta,No,Brutale 800
+4878,Used,11000.0,"Redmond, Washington, United States",2014,1756,Gray,Other,No,Brutale 800
 4879,Used,9600.0,"Marengo, Illinois, United States",2015,17000,White,Victory,No,Cross Country® Tour
 4880,Used,50.0,"Rock Hill, South Carolina, United States",2013,6900,Black,Victory,No,High Ball
 4881,Used,11500.0,"Groveport, Ohio, United States",2013,13300,Green,Victory,No,Cross Country
-4882,Used,9399.0,"Elmhurst, IL, United States",2013,5740,Black,MV Agusta,No,Brutale 1090
-4883,Used,15000.0,"Bogota, New Jersey, United States",2009,2850,Gold,Big Dog,No,K9
+4882,Used,9399.0,"Elmhurst, IL, United States",2013,5740,Black,Other,No,Brutale 1090
+4883,Used,15000.0,"Bogota, New Jersey, United States",2009,2850,Gold,Other,No,K9
 4884,Used,11500.0,"Zanesville, Ohio, United States",2014,2915,Other,Can-Am,No,RS-S
-4885,Used,4500.0,"Fort Collins, Colorado, United States",2009,5572,Black,Buell,No,1125R
+4885,Used,4500.0,"Fort Collins, Colorado, United States",2009,5572,Black,Other,No,1125R
 4886,Used,8660.0,"Dallas, Texas, United States",1985,27731,Black,Harley-Davidson,No,FXRS - Low Glide
 4887,Used,100.0,"Delbarton, West Virginia, United States",2006,37631,Red,Harley-Davidson,No,FLHT - Electra Glide® Standard
-4889,Used,3050.0,"Tappahannock, Virginia, United States",1973,39636,Red,Moto Guzzi,No,Eldorado
+4889,Used,3050.0,"Tappahannock, Virginia, United States",1973,39636,Red,Other,No,Eldorado
 4890,Used,500.0,"Cleburne, Texas, United States",2016,4173,Gray,Harley-Davidson,No,FLS - Softail Slim®
-4891,Used,5600.0,"Marengo, Illinois, United States",2015,10133,Red,Aprilia,No,Caponord
-4893,Used,12995.0,"Zieglerville, Pennsylvania, United States",2013,5174,Red,American Classic Motors,No,Chopper Bobber
+4891,Used,5600.0,"Marengo, Illinois, United States",2015,10133,Red,Other,No,Caponord
+4893,Used,12995.0,"Zieglerville, Pennsylvania, United States",2013,5174,Red,Other,No,Chopper Bobber
 4894,Used,100.0,"Fayetteville, North Carolina, United States",2010,19020,Red,Honda,No,Fury
 4896,Used,7598.0,"Dallas, Texas, United States",2016,646,Black,Harley-Davidson,No,XL883N - Sportster Iron 883
 4897,Used,11495.0,"Boynton Beach, Florida, United States",2009,38866,Purple,Harley-Davidson,No,FLHX - Street Glide
 4899,Used,17780.0,"Marion, Illinois, United States",2015,6820,Blue,Harley-Davidson,No,FLTRXS - Road Glide® Special
-4900,Used,3050.0,"Tappahannock, Virginia, United States",1973,39636,Red,Moto Guzzi,No,Eldorado
+4900,Used,3050.0,"Tappahannock, Virginia, United States",1973,39636,Red,Other,No,Eldorado
 4901,Used,22970.0,"Dallas, Texas, United States",2009,4245,Black,Other,No,GTX-F LTD 1
 4902,Used,4125.0,"Martinsville, Virginia, United States",2002,31845,Blue,Honda,No,VTX
 4903,Used,1500.0,"Suncook, New Hampshire, United States",2015,473,Red,Triumph,No,Daytona
@@ -3897,7 +3897,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4913,Used,17879.0,"Marion, Illinois, United States",2014,11342,Gray,Harley-Davidson,No,FLHTK - Electra Glide® Ultra Limited
 4916,Used,250.0,"Suncook, New Hampshire, United States",2016,2755,Blue,Harley-Davidson,No,FLTRXS - Road Glide Special
 4917,Used,18998.0,"Stuart, Florida, United States",2016,7000,Blue,Harley-Davidson,No,FLTRXS - Road Glide Special
-4918,Used,5600.0,"Marengo, Illinois, United States",2015,10133,Red,Aprilia,No,Caponord
+4918,Used,5600.0,"Marengo, Illinois, United States",2015,10133,Red,Other,No,Caponord
 4921,Used,2398.0,"Round Rock, Texas, United States",2003,19727,Silver,Yamaha,No,V Star 1100 Classic XVS1100A
 4922,Used,100.0,"Fayetteville, North Carolina, United States",2010,19020,Red,Honda,No,Fury
 4923,Used,14698.0,"Dallas, Texas, United States",2014,17939,Black,Harley-Davidson,No,FLHTCU - Electra Glide Ultra Classic
@@ -3905,11 +3905,11 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4925,Used,6100.0,"Fort Smith, Arkansas, United States",2010,7400,Blue,Can-Am,No,Spyder RS
 4927,Used,6475.0,"Henderson, Nevada, United States",2007,19000,Blue,Yamaha,No,Stratoliner
 4929,Used,11791.0,"Scott City, Missouri, United States",2007,16373,Black,Harley-Davidson,No,Street Glide
-4931,Used,34900.0,"Lake Park, Georgia, United States",2001,2500,Red,Boss Hoss,No,434 stroker
+4931,Used,34900.0,"Lake Park, Georgia, United States",2001,2500,Red,Other,No,434 stroker
 4932,Used,8000.0,"Canton, Connecticut, United States",1998,8081,Other,Custom Built Motorcycles,No,Patriot
 4933,Used,8900.0,"Mentor, Ohio, United States",2014,1716,Red,Ducati,No,Monster
 4934,Used,3199.0,"Bradenton, Florida, United States",2005,25527,Gold,Kawasaki,No,Vulcan
-4936,Used,10995.0,"Columbia, Missouri, United States",2006,13500,Other,American Ironhorse,No,AMERICAN IRONHORSE
+4936,Used,10995.0,"Columbia, Missouri, United States",2006,13500,Other,Other,No,AMERICAN IRONHORSE
 4938,Used,15250.0,"Dallas, Texas, United States",2008,6090,Black,Harley-Davidson,No,FLHRSE4 - Screamin Eagle Road King CVO 105th Anniv
 4939,Used,17500.0,"Land O&#039; Lakes, Florida, United States",2015,2471,Black,Can-Am,Yes,CAN AM SPYDER RT
 4940,Used,3825.0,"Covington, Georgia, United States",2011,11414,Other,Honda,No,Shadow
@@ -3918,12 +3918,12 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4944,Used,3050.0,"Cape Coral, Florida, United States",2008,8000,Other,Suzuki,No,Hayabusa
 4945,Used,6970.0,"Dallas, Texas, United States",2016,3167,Black,Harley-Davidson,No,XL883N - Sportster Iron 883
 4947,Used,12470.0,"Dallas, Texas, United States",2012,38905,Silver,BMW,No,K-Series
-4948,Used,12000.0,"Huntington Beach, California, United States",2009,4811,Other,MV Agusta,No,F4
+4948,Used,12000.0,"Huntington Beach, California, United States",2009,4811,Other,Other,No,F4
 4949,Used,18995.0,"Boynton Beach, Florida, United States",2015,3776,Black,Harley-Davidson,No,FLTRXS - Road Glide Special
-4951,Used,23000.0,"Chino, California, United States",2003,13025,Gray,Bourget,No,
-4952,Used,13500.0,"Spring Grove, Illinois, United States",2006,16000,Other,American Ironhorse,No,Slammer
-4953,Used,17500.0,"Painted Post, New York, United States",2007,2000,Black,Big Dog,No,K9 Chopper
-4954,Used,24000.0,"Woodbury, Connecticut, United States",2009,8500,Black,Bourget,No,Python
+4951,Used,23000.0,"Chino, California, United States",2003,13025,Gray,Other,No,
+4952,Used,13500.0,"Spring Grove, Illinois, United States",2006,16000,Other,Other,No,Slammer
+4953,Used,17500.0,"Painted Post, New York, United States",2007,2000,Black,Other,No,K9 Chopper
+4954,Used,24000.0,"Woodbury, Connecticut, United States",2009,8500,Black,Other,No,Python
 4955,Used,6450.0,"Dallas, Texas, United States",2009,32083,Black,Yamaha,No,Roadliner Midnight - XV19MY
 4958,Used,11791.0,"Scott City, Missouri, United States",2007,16373,Black,Harley-Davidson,No,Street Glide
 4959,Used,8000.0,"Canton, Connecticut, United States",1998,8081,Other,Custom Built Motorcycles,No,Patriot
@@ -3933,36 +3933,36 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 4964,Used,12950.0,"Round Rock, Texas, United States",2016,19705,Black,Indian,No,Chief Vintage Thunder Black
 4965,Used,3825.0,"Covington, Georgia, United States",2011,11414,Other,Honda,No,Shadow
 4966,Used,3250.0,"Norwood, New Jersey, United States",1970,8320,Red,Other,No,Metralla Mk II
-4967,Used,22500.0,"Glendora, California, United States",1972,3380,Orange,Norton,No,Hi-Rider
+4967,Used,22500.0,"Glendora, California, United States",1972,3380,Orange,Other,No,Hi-Rider
 4968,Used,12000.0,"Augusta, Georgia, United States",2013,2533,Gray,Can-Am,No,ST
-4970,Used,5500.0,"Orlando, Florida, United States",2004,3928,Black,MV Agusta,No,Brutale
+4970,Used,5500.0,"Orlando, Florida, United States",2004,3928,Black,Other,No,Brutale
 4971,Used,13000.0,"Cresco, Pennsylvania, United States",2014,920,White,Can-Am,No,RT
-4972,Used,5500.0,"Holbrook, New York, United States",2003,4367,Blue,Bourget,No,blackjack
+4972,Used,5500.0,"Holbrook, New York, United States",2003,4367,Blue,Other,No,blackjack
 4973,Used,6970.0,"Dallas, Texas, United States",2016,3167,Black,Harley-Davidson,No,XL883N - Sportster Iron 883
 4974,Used,3250.0,"Suncook, New Hampshire, United States",2010,19134,Black,Harley-Davidson,No,Dyna
 4975,Used,16000.0,"Aberdeen, Maryland, United States",2009,11138,White,Suzuki,No,Hayabusa
 4979,Used,15995.0,"Richmond, Texas, United States",2015,475,Black,Can-Am,No,Sypder F3 (Manual)
 4980,Used,18995.0,"Boynton Beach, Florida, United States",2015,3776,Black,Harley-Davidson,No,FLTRXS - Road Glide Special
-4982,Used,1995.0,"Los Angeles, California, United States",2001,10108,Other,KTM,No,Adventure
+4982,Used,1995.0,"Los Angeles, California, United States",2001,10108,Other,Other,No,Adventure
 4983,Used,3697.0,"Dallas, Texas, United States",2003,23883,Red,Honda,No,VTX 1800 S
 4984,Used,4995.0,"Fort Worth, Texas, United States",2009,10364,Blue,Suzuki,No,Boulevard
 4986,Used,12500.0,"Tucson, Arizona, United States",2013,9300,Red,Victory,No,Victory
-4987,Used,2325.0,"Telluride, Colorado, United States",1985,1665,White,Moto Guzzi,No,V65 TT
+4987,Used,2325.0,"Telluride, Colorado, United States",1985,1665,White,Other,No,V65 TT
 4990,Used,6897.0,"Dallas, Texas, United States",2016,7922,Black,Harley-Davidson,No,XL883N - Sportster Iron 883
 4991,Used,6800.0,"La Quinta, California, United States",2014,19749,Black,Victory,No,Vegas
 4992,Used,3960.0,"Round Rock, Texas, United States",2008,3481,Silver,Yamaha,No,V Star 1300 XVS1300
-4993,Used,4000.0,"Oxford, Connecticut, United States",2004,7345,Black,Moto Guzzi,No,
+4993,Used,4000.0,"Oxford, Connecticut, United States",2004,7345,Black,Other,No,
 4994,Used,10299.0,"Carrollton, Texas, United States",1982,7000,Red,Custom Built Motorcycles,No,Other
 4995,Used,9999.0,"Ljubljana, Slovenia/EU, Slovenia",1984,18532,Metallic,Other,No,Scooter Piaggio Vespa
 4997,Used,11498.0,"Stuart, Florida, United States",2012,29721,Red,Harley-Davidson,No,FLHTC - Electra Glide® Classic
 4998,Used,5250.0,"Auburn, New York, United States",2009,15550,Other,Yamaha,No,V Star
 4999,Used,9995.0,"Orlando, Florida, United States",2013,11133,Other,Ducati,No,848 EVO Corse SE
 5001,Used,19991.0,"Scott City, Missouri, United States",2016,4982,Orange,Harley-Davidson,No,Fltrx - Road Glide
-5002,Used,1995.0,"Los Angeles, California, United States",2001,10108,Other,KTM,No,Adventure
-5004,Used,17500.0,"Jonesboro, Arkansas, United States",2008,25172,Red,Big Dog,No,Ridgeback
-5005,Used,12500.0,"Fort Worth, Texas, United States",2002,5000,Other,Bourget,No,python chopper
+5002,Used,1995.0,"Los Angeles, California, United States",2001,10108,Other,Other,No,Adventure
+5004,Used,17500.0,"Jonesboro, Arkansas, United States",2008,25172,Red,Other,No,Ridgeback
+5005,Used,12500.0,"Fort Worth, Texas, United States",2002,5000,Other,Other,No,python chopper
 5008,Used,12500.0,"Tucson, Arizona, United States",2013,9300,Red,Victory,No,Victory
-5009,Used,3550.0,"Holtsville, New York, United States",2000,7000,Black,Moto Guzzi,No,Jackal
+5009,Used,3550.0,"Holtsville, New York, United States",2000,7000,Black,Other,No,Jackal
 5010,Used,12450.0,"Little Rock, Arkansas, United States",2013,2000,Yellow,Can-Am,No,ST-S
 5011,New,250.0,"Suncook, New Hampshire, United States",2015,3104,Blue,Triumph,No,Trophy
 5012,Used,16970.0,"Dallas, Texas, United States",2015,19311,Red,Harley-Davidson,No,FLHTCUL - Electra Glide Ultra Classic Low
@@ -3974,20 +3974,20 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5021,Used,15795.0,"Orlando, Florida, United States",2013,8615,Other,Ducati,No,Multistrada
 5022,Used,3570.0,"Round Rock, Texas, United States",2009,15571,Silver,Honda,No,Shadow Spirit 750 VT750C
 5024,Used,25699.0,"Marion, Illinois, United States",2016,2469,Black,Harley-Davidson,No,FLTRU - Road Glide® Ultra
-5025,Used,2500.0,"Keokuk, Iowa, United States",1967,4236,Other,BSA,No,Victor
+5025,Used,2500.0,"Keokuk, Iowa, United States",1967,4236,Other,Other,No,Victor
 5026,Used,14500.0,"Irvine, California, United States",2015,1700,Orange,Can-Am,Yes,spyer f3s
 5027,Used,14995.0,"Boynton Beach, Florida, United States",2013,20605,Black,Harley-Davidson,No,FLTRU - Road Glide Ultra
 5028,Used,3292.0,"Dallas, Texas, United States",2006,27590,Gray,Suzuki,No,Boulevard C90T
-5029,Used,15975.0,"Pittsburgh, Pennsylvania, United States",2008,6900,Black,Big Dog,No,K9
+5029,Used,15975.0,"Pittsburgh, Pennsylvania, United States",2008,6900,Black,Other,No,K9
 5030,New,15000.0,"Cloquet, Minnesota, United States",2005,1200,Red,Custom Built Motorcycles,No,Soft Tail
 5031,Used,2900.0,"Tomball, Texas, United States",2002,25000,Black,Yamaha,No,Road Star
-5032,Used,1875.0,"Warrenton, Missouri, United States",2001,5000,Other,Big Dog,No,Mastiff
+5032,Used,1875.0,"Warrenton, Missouri, United States",2001,5000,Other,Other,No,Mastiff
 5033,Used,3500.0,"Palm Springs, California, United States",1987,7660,Red,Yamaha,No,FZR 1000
 5034,Used,10791.0,"Dallas, Texas, United States",2003,26020,Gold,Harley-Davidson,No,FLHRSEI2 - Screamin Eagle Road King Managers Speci
 5037,Used,7499.0,"Santa Monica, California, United States",2010,31000,Blue,Can-Am,No,Spyder RS
-5038,Used,4250.0,"Latham, New York, United States",1983,39938,Red,Moto Guzzi,No,SPNT1000
+5038,Used,4250.0,"Latham, New York, United States",1983,39938,Red,Other,No,SPNT1000
 5039,Used,6000.0,"Fort Lauderdale, Florida, United States",2009,8500,Black,Ducati,No,Hypermotard
-5043,Used,2750.0,"Sun City, California, United States",1979,10000,Red,Husqvarna,No,250 WR
+5043,Used,2750.0,"Sun City, California, United States",1979,10000,Red,Other,No,250 WR
 5046,Used,17970.0,"Dallas, Texas, United States",2015,5133,Black,Harley-Davidson,No,FLHTCUL - Electra Glide Ultra Classic Low
 5048,Used,18999.0,"Marion, Illinois, United States",2011,26170,Black,Harley-Davidson,No,FLHX - Street Glide®
 5049,Used,5495.0,"Hollywood, Florida, United States",2011,3864,Red,Yamaha,No,STRYKER 1300  XVS13CAO/C
@@ -4006,19 +4006,19 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5063,Used,15999.0,"Delbarton, West Virginia, United States",2013,31450,Black,Harley-Davidson,No,FLTRU - Road Glide® Ultra
 5064,Used,2900.0,"Encino, California, United States",2008,5000,Blue,Suzuki,No,GSX / Katana
 5065,Used,10000.0,"Federal Way, Washington, United States",2013,6800,Silver,Can-Am,No,Spyder ST
-5067,Used,4600.0,"Lawrence Township, New Jersey, United States",2014,6598,Red,Husqvarna,No,TR 650
+5067,Used,4600.0,"Lawrence Township, New Jersey, United States",2014,6598,Red,Other,No,TR 650
 5068,Used,100.0,"Fayetteville, North Carolina, United States",2015,1232,Black,Harley-Davidson,No,FLS - Softail Slim®
 5069,Used,100.0,"Fayetteville, North Carolina, United States",2013,1117,Red,Harley-Davidson,No,FXSB - Softail® Breakout®
 5070,Used,100.0,"Fayetteville, North Carolina, United States",2014,4651,Orange,Harley-Davidson,No,FLS - Softail Slim®
 5072,Used,15000.0,"Huffman, Texas, United States",2014,2255,Red,Ducati,No,Superbike
 5075,Used,100.0,"Durham, North Carolina, United States",2013,29491,Other,Harley-Davidson,No,FLHTK - Electra Glide® Ultra Limited
-5076,Used,3000.0,"Spring, Texas, United States",2004,430,Gray,Moto Guzzi,No,Breva 750 I.E.
+5076,Used,3000.0,"Spring, Texas, United States",2004,430,Gray,Other,No,Breva 750 I.E.
 5077,Used,3999.0,"Rock Springs, Wyoming, United States",2004,10825,Purple,Victory,No,
 5079,Used,15000.0,"Albuquerque, New Mexico, United States",2013,2200,Orange,Can-Am,Yes,Spyder RS-S
 5081,Used,9000.0,"Canmore, AB, Canada",2011,29900,Blue,Victory,No,Cross Country
 5082,Used,23199.0,"Marion, Illinois, United States",2016,14265,Blue,Harley-Davidson,No,FLHXS - Street Glide® Special
 5083,Used,2898.0,"Round Rock, Texas, United States",2006,24624,Black,Yamaha,No,V Star 1100 Classic XVS1100A
-5084,Used,3150.0,"Gilbert, Arizona, United States",2010,1080,Orange,KTM,No,EXC
+5084,Used,3150.0,"Gilbert, Arizona, United States",2010,1080,Orange,Other,No,EXC
 5086,Used,102.0,"Alpena, Michigan, United States",2002,8315,Other,Suzuki,No,Intruder
 5087,Used,10000.0,"Pewee Valley, Kentucky, United States",2014,4500,Gray,Custom Built Motorcycles,No,FZ-09
 5088,Used,2800.0,"Brits, North West, South Africa",2010,1000,Other,Other,No,Polaris Predator Troy Lee edition 
@@ -4044,76 +4044,76 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5109,Used,8500.0,"Louisville, Kentucky, United States",2014,300,Red,Ducati,No,Hypermotard
 5110,Used,10000.0,"Laconia, New Hampshire, United States",2005,1000,Orange,Custom Built Motorcycles,No,Chopper
 5113,Used,9791.0,"Scott City, Missouri, United States",2012,9532,Silver,Harley-Davidson,No,Night Rod Special
-5115,Used,2225.0,"Camarillo, California, United States",1997,8744,Red,Bimota,No,YB11
-5116,Used,8900.0,"Fort Lauderdale, Florida, United States",1993,5970,Other,Bimota,No,YB10
+5115,Used,2225.0,"Camarillo, California, United States",1997,8744,Red,Other,No,YB11
+5116,Used,8900.0,"Fort Lauderdale, Florida, United States",1993,5970,Other,Other,No,YB10
 5117,Used,1000.0,"Fort Walton Beach, Florida, United States",2014,21431,Black,Harley-Davidson,No,Softail
 5119,Used,11750.0,"Gaylord, Michigan, United States",2010,23761,Black,Can-Am,No,Spyder RT-S
-5120,Used,1250.0,"Egg Harbor Township, New Jersey, United States",2001,5000,Other,Buell,No,Blast
+5120,Used,1250.0,"Egg Harbor Township, New Jersey, United States",2001,5000,Other,Other,No,Blast
 5121,Used,3792.0,"Dallas, Texas, United States",2006,35933,Silver,Yamaha,No,FJR 1300AE YCC-S ABS Managers Special
 5122,Used,8000.0,"Ashland, Ohio, United States",2011,10800,Red,Victory,No,Vegas
 5123,Used,16740.0,"Round Rock, Texas, United States",2014,28209,Black,Harley-Davidson,No,FLHX - Street Glide
-5124,Used,9750.0,"Auburn, Massachusetts, United States",2014,2755,Black,Moto Guzzi,No,1400 California
+5124,Used,9750.0,"Auburn, Massachusetts, United States",2014,2755,Black,Other,No,1400 California
 5125,Used,11750.0,"Mason, Ohio, United States",2014,2617,Yellow,Suzuki,No,Boulevard
 5126,Used,6888.0,"Tampa, Florida, United States",2013,39195,Black,Victory,No,Hard-Ball ABS
 5128,Used,1025.0,"Fort Walton Beach, Florida, United States",2013,3869,Black,Harley-Davidson,No,Sportster
-5131,Used,2600.0,"Boulder, Colorado, United States",1967,5505,Yellow,BSA,No,Victor
+5131,Used,2600.0,"Boulder, Colorado, United States",1967,5505,Yellow,Other,No,Victor
 5133,Used,16649.0,"Ridgeland, Mississippi, United States",2015,5592,Orange,Can-Am,No,Spyder F3
-5134,Used,1100.0,"Watervliet, New York, United States",2000,7792,Gray,Buell,No,Blast
+5134,Used,1100.0,"Watervliet, New York, United States",2000,7792,Gray,Other,No,Blast
 5135,Used,2300.0,"Smithfield, North Carolina, United States",1998,19800,Silver,Honda,No,Shadow
-5136,Used,12995.0,"Boxborough, Massachusetts, United States",2010,20186,Green,Ural,No,Gear Up 2WD Military Green
+5136,Used,12995.0,"Boxborough, Massachusetts, United States",2010,20186,Green,Other,No,Gear Up 2WD Military Green
 5137,Used,18900.0,"Cleveland, North Carolina, United States",2016,1000,Black,Custom Built Motorcycles,No,Chopper
 5138,Used,6500.0,"Southlake, Texas, United States",2005,20400,Blue,Ducati,No,Monster
 5140,Used,11000.0,"Saint Cloud, Florida, United States",2010,9397,Blue,Can-Am,No,RT
 5141,Used,13960.0,"Dallas, Texas, United States",2016,16199,Black,Harley-Davidson,No,FLHTP - Electra Glide Police
 5143,Used,5499.0,"Las Vegas, Nevada, United States",2006,8300,Blue,Custom Built Motorcycles,No,Chopper
 5144,Used,37000.0,"Brandon, Wisconsin, United States",1990,2220,Other,Custom Built Motorcycles,No,Pro Street
-5146,Used,3000.0,"Brooklyn, New York, United States",2002,25000,Gray,Aprilia,No,Caponord
+5146,Used,3000.0,"Brooklyn, New York, United States",2002,25000,Gray,Other,No,Caponord
 5148,Used,960.0,"Fayetteville, North Carolina, United States",2015,1411,Black,Harley-Davidson,No,FXDB - Dyna® Street Bob®
-5149,Used,4350.0,"Bloomingburg, New York, United States",1996,12000,Silver,Moto Guzzi,No,1100 Sport
-5150,Used,4800.0,"South Range, Wisconsin, United States",2006,23000,Black,Buell,No,Ulysses XB12X
+5149,Used,4350.0,"Bloomingburg, New York, United States",1996,12000,Silver,Other,No,1100 Sport
+5150,Used,4800.0,"South Range, Wisconsin, United States",2006,23000,Black,Other,No,Ulysses XB12X
 5154,Used,7100.0,"Suncook, New Hampshire, United States",2014,1765,White,Can-Am,No,Spyder
 5156,Used,15899.0,"Cleburne, Texas, United States",2016,1622,Black,Harley-Davidson,No,FXDLS - Low Rider® S
 5157,Used,34900.0,"Pittsburgh, Pennsylvania, United States",2006,1200,Orange,Custom Built Motorcycles,No,Chopper
-5158,Used,3000.0,"Berwick, Maine, United States",1997,6400,Red,Moto Guzzi,No,California
+5158,Used,3000.0,"Berwick, Maine, United States",1997,6400,Red,Other,No,California
 5159,Used,3500.0,"Palm Springs, California, United States",1987,7660,Red,Yamaha,No,FZR 1000
 5160,Used,13500.0,"Cumberland, Wisconsin, United States",2003,991,Other,Custom Built Motorcycles,No,Chopper
 5161,Used,1000.0,"Fort Walton Beach, Florida, United States",2017,710,Gray,Harley-Davidson,No,Softail
 5162,Used,6800.0,"Lawrence Township, New Jersey, United States",2010,14950,Black,Victory,No,Vegas 8-Ball
-5163,Used,3383.0,"Suncook, New Hampshire, United States",2001,7709,Red,Bourget,No,LOW BLOW STREET SWEEPER
+5163,Used,3383.0,"Suncook, New Hampshire, United States",2001,7709,Red,Other,No,LOW BLOW STREET SWEEPER
 5164,Used,2800.0,"Center Ossipee, New Hampshire, United States",1989,24000,Blue,Yamaha,No,FJR
 5166,Used,10399.0,"Allen, Texas, United States",2012,7860,White,Can-Am,No,RS SE 5
-5167,Used,14800.0,"Voula, Athens, default, Greece",2012,6500,Red,MV Agusta,No,f3 675
-5168,Used,9500.0,"Spring, Texas, United States",2005,4211,Red,American Ironhorse,No,LSC
-5170,Used,11489.0,"Arlington, Texas, United States",2008,5314,Silver,Big Dog,No,Mutt
-5172,Used,3000.0,"Plainfield, Indiana, United States",1995,6471,Other,Buell,No,Thunderbolt
+5167,Used,14800.0,"Voula, Athens, default, Greece",2012,6500,Red,Other,No,f3 675
+5168,Used,9500.0,"Spring, Texas, United States",2005,4211,Red,Other,No,LSC
+5170,Used,11489.0,"Arlington, Texas, United States",2008,5314,Silver,Other,No,Mutt
+5172,Used,3000.0,"Plainfield, Indiana, United States",1995,6471,Other,Other,No,Thunderbolt
 5173,Used,100.0,"Fayetteville, North Carolina, United States",2015,12275,Black,Harley-Davidson,No,FXDB - Dyna® Street Bob®
 5174,Used,100.0,"Fayetteville, North Carolina, United States",2009,32975,Black,Harley-Davidson,No,FXDF - Dyna® Fat Bob
-5176,Used,1750.0,"Naples, Florida, United States",2001,10500,Yellow,Buell,No,Blast
-5177,Used,6000.0,"Miami Beach, Florida, United States",1986,32805,Red,Moto Guzzi,No,Lemans 1000
+5176,Used,1750.0,"Naples, Florida, United States",2001,10500,Yellow,Other,No,Blast
+5177,Used,6000.0,"Miami Beach, Florida, United States",1986,32805,Red,Other,No,Lemans 1000
 5179,Used,4200.0,"Albuquerque, New Mexico, United States",1967,13148,Metallic,Honda,No,CL
-5180,Used,5500.0,"Portland, Oregon, United States",1968,1264,Red,BSA,No,Lightning
+5180,Used,5500.0,"Portland, Oregon, United States",1968,1264,Red,Other,No,Lightning
 5181,Used,12000.0,"Glendale, Arizona, United States",2007,17000,Red,Custom Built Motorcycles,No,Bobber
 5183,Used,14999.0,"Cleburne, Texas, United States",2015,760,Black,Harley-Davidson,No,VRSCDX - Night Rod® Special
 5185,Used,100.0,"Fayetteville, North Carolina, United States",2015,3486,Black,Harley-Davidson,No,FXDWG - Dyna® Wide Glide®
 5186,Used,6500.0,"Meridian, Mississippi, United States",2012,6429,Black,Triumph,No,Daytona
-5187,Used,3200.0,"Andersonville, Tennessee, United States",2001,17600,Other,Buell,No,Cyclone
-5188,Used,9300.0,"Cleburne, Texas, United States",2015,9582,Black,Polaris,No,Slingshot
+5187,Used,3200.0,"Andersonville, Tennessee, United States",2001,17600,Other,Other,No,Cyclone
+5188,Used,9300.0,"Cleburne, Texas, United States",2015,9582,Black,Other,No,Slingshot
 5190,Used,2150.0,"Los Angeles, California, United States",1996,6000,Red,Honda,No,Rebel
-5191,Used,12500.0,"Wilmington, North Carolina, United States",1967,8000,Red,Norton,No,N15CS
-5192,Used,7999.0,"Ontario, California, United States",2015,219,Red,MV Agusta,Yes,Stradale 800
+5191,Used,12500.0,"Wilmington, North Carolina, United States",1967,8000,Red,Other,No,N15CS
+5192,Used,7999.0,"Ontario, California, United States",2015,219,Red,Other,Yes,Stradale 800
 5195,Used,1225.0,"Fayetteville, North Carolina, United States",2012,6720,Black,Suzuki,No,V-Strom 1000
-5196,Used,8460.0,"Round Rock, Texas, United States",2004,21431,Blue,Big Dog,No,Mastiff
+5196,Used,8460.0,"Round Rock, Texas, United States",2004,21431,Blue,Other,No,Mastiff
 5197,Used,12500.0,"Valley Springs, California, United States",2012,21000,Green,Can-Am,No,Spyder RS-S SE5
-5198,Used,12500.0,"Wilmington, North Carolina, United States",1967,8000,Black,Royal Enfield,No,Interceptor T.T. 7
+5198,Used,12500.0,"Wilmington, North Carolina, United States",1967,8000,Black,Other,No,Interceptor T.T. 7
 5199,Used,8100.0,"Cleburne, Texas, United States",2013,7485,Blue,Harley-Davidson,No,FLTRX - Road Glide® Custom
 5200,Used,8100.0,"Cleburne, Texas, United States",2013,7485,Blue,Harley-Davidson,No,FLTRX - Road Glide® Custom
 5201,Used,17988.0,"Tulsa, Oklahoma, United States",2014,2827,Black,Can-Am,No,Spyder RT
-5204,Used,7195.0,"Orlando, Florida, United States",2015,1461,Black,KTM,No,690 Duke ABS
+5204,Used,7195.0,"Orlando, Florida, United States",2015,1461,Black,Other,No,690 Duke ABS
 5205,Used,2750.0,"Matthews, North Carolina, United States",1999,10700,Other,Victory,No,V92C
 5206,Used,4850.0,"Suncook, New Hampshire, United States",2017,2248,Gray,Victory,No,Octane™
 5208,Used,15988.0,"Tulsa, Oklahoma, United States",2012,9908,Silver,Can-Am,No,Spyder RT-S
 5209,Used,28000.0,"Redmond, Washington, United States",2006,9953,Silver,Ducati,No,PS1000LE
-5210,Used,31488.0,"Dallas, Texas, United States",2016,208,Gray,Big Dog,No,Mastiff Limited Edition
+5210,Used,31488.0,"Dallas, Texas, United States",2016,208,Gray,Other,No,Mastiff Limited Edition
 5211,Used,4100.0,"Daytona Beach, Florida, United States",2013,11542,Black,Victory,No,Jackpot
 5214,Used,18988.0,"Tulsa, Oklahoma, United States",2014,11732,Orange,Can-Am,No,Spyder RT-S SE6
 5215,Used,12800.0,"Sterling, Connecticut, United States",2010,12200,Black,Victory,No,Cross Country
@@ -4121,43 +4121,43 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5217,Used,14988.0,"Tulsa, Oklahoma, United States",2013,18292,Yellow,Can-Am,No,Spyder RT-S
 5218,Used,11250.0,"Waterloo, Iowa, United States",2014,2158,Silver,Triumph,No,Trophy SE ABS
 5219,Used,4850.0,"Suncook, New Hampshire, United States",2014,2547,Black,Victory,No,High-Ball™
-5220,Used,8499.0,"Milford, Ohio, United States",2010,16281,Orange,KTM,No,Adventure
+5220,Used,8499.0,"Milford, Ohio, United States",2010,16281,Orange,Other,No,Adventure
 5222,Used,7999.0,"Arlington, Texas, United States",2013,7678,Black,Victory,No,Boardwalk
 5223,Used,2247.0,"Cleburne, Texas, United States",2013,11492,Gray,BMW,No,K-Series
-5224,Used,2000.0,"Northridge, California, United States",2000,4686,Red,Aprilia,No,RS50
+5224,Used,2000.0,"Northridge, California, United States",2000,4686,Red,Other,No,RS50
 5225,Used,100.0,"Fayetteville, North Carolina, United States",2006,17896,Blue,Harley-Davidson,No,FLSTFSE2 - Softail® Fat Boy® Screamin Eagle
-5226,Used,5995.0,"Boxborough, Massachusetts, United States",1995,11684,Red,Ural,No,Solo
+5226,Used,5995.0,"Boxborough, Massachusetts, United States",1995,11684,Red,Other,No,Solo
 5229,Used,11970.0,"Round Rock, Texas, United States",2013,14858,Metallic,Victory,No,Cross Country Tour Bronze Mist
-5230,Used,16993.0,"Arlington, Texas, United States",2017,865,Black,Aprilia,No,RSV4RR
-5231,Used,34000.0,"Miami, Florida, United States",1968,4708,Other,Norton,No,
-5232,Used,10999.0,"Cleburne, Texas, United States",2014,14810,Silver,KTM,No,1190 ADVENTURE
+5230,Used,16993.0,"Arlington, Texas, United States",2017,865,Black,Other,No,RSV4RR
+5231,Used,34000.0,"Miami, Florida, United States",1968,4708,Other,Other,No,
+5232,Used,10999.0,"Cleburne, Texas, United States",2014,14810,Silver,Other,No,1190 ADVENTURE
 5233,New,10999.0,"St. Petersburg, FL, United States",2016,2246,Other,Victory,No,Hammer® S Black w/Red Racing Stripes
 5234,Used,14360.0,"Dallas, Texas, United States",2016,6454,Gray,Victory,No,Cross Country
 5235,Used,14988.0,"Tulsa, Oklahoma, United States",2012,22418,Red,Can-Am,No,Spyder RT-S
 5237,Used,900.0,"Daytona Beach, Florida, United States",2015,5839,Red,Ducati,No,Monster
 5239,Used,19988.0,"Tulsa, Oklahoma, United States",2009,22116,Blue,Victory,No,Vision
 5241,Used,15888.0,"Tulsa, Oklahoma, United States",2013,2606,Yellow,Can-Am,No,Spyder RT-S
-5242,Used,11000.0,"London, Ontario, Canada",1959,1234,Black,Royal Enfield,No,ROYAL ENFIELD
-5243,Used,2175.0,"West Palm Beach, Florida, United States",1953,12345,Other,Moto Guzzi,No,ASTORE
-5244,Used,15000.0,"Binghamton, New York, United States",2005,5862,Other,Bourget,No,
+5242,Used,11000.0,"London, Ontario, Canada",1959,1234,Black,Other,No,ROYAL ENFIELD
+5243,Used,2175.0,"West Palm Beach, Florida, United States",1953,12345,Other,Other,No,ASTORE
+5244,Used,15000.0,"Binghamton, New York, United States",2005,5862,Other,Other,No,
 5247,Used,7300.0,"Fort Walton Beach, Florida, United States",2013,15934,Red,Harley-Davidson,No,FLHRSE5 - CVO™ Road King®
 5248,Used,18788.0,"Tulsa, Oklahoma, United States",2014,7225,Yellow,Can-Am,No,Spyder RT-S
-5249,Used,28000.0,"Redmond, Washington, United States",2017,206,Gray,Norton,No,DOMINATOR
+5249,Used,28000.0,"Redmond, Washington, United States",2017,206,Gray,Other,No,DOMINATOR
 5250,Used,6950.0,"Round Rock, Texas, United States",2013,9890,Black,Triumph,No,Thruxton Standard
 5251,Used,7300.0,"Fort Walton Beach, Florida, United States",2013,15934,Red,Harley-Davidson,No,FLHRSE5 - CVO™ Road King®
 5252,Used,12999.0,"Cleburne, Texas, United States",2016,14869,Black,Kawasaki,No,Concours 14
-5253,Used,2250.0,"Puyallup, Washington, United States",1969,6770,Yellow,BSA,No,B441
+5253,Used,2250.0,"Puyallup, Washington, United States",1969,6770,Yellow,Other,No,B441
 5254,Used,5980.0,"Round Rock, Texas, United States",2008,8595,Black,Suzuki,No,Boulevard
 5255,Used,12995.0,"Hollywood, Florida, United States",2015,475,White,Ducati,No,Diavel Carbon White
 5256,Used,15000.0,"Virginia Beach, Virginia, United States",1999,2000,Red,Custom Built Motorcycles,No,Chopper
-5257,Used,8995.0,"Orlando, Florida, United States",2013,109,Other,Aprilia,No,Mana 850 GT ABS
+5257,Used,8995.0,"Orlando, Florida, United States",2013,109,Other,Other,No,Mana 850 GT ABS
 5258,Used,6490.0,"Houston, Texas, United States",2010,11209,White,Ducati,No,Hypermotard 1100 EVO SP
 5260,Used,500.0,"Shawnee, Oklahoma, United States",2007,8967,Other,Harley-Davidson,No,V-Rod
 5266,Used,14750.0,"Dallas, Texas, United States",2015,358,Red,Victory,No,Vision Tour
 5271,Used,13333.0,"Mansfield, Texas, United States",2014,9101,Yellow,Victory,No,Cross Country
 5272,Used,11970.0,"Dallas, Texas, United States",2014,22637,White,Victory,No,Vision Tour
 5275,Used,9280.0,"Dallas, Texas, United States",2011,39222,Silver,Victory,No,Vision Tour
-5276,Used,8995.0,"Daytona Beach, Florida, United States",2013,109,Other,Aprilia,No,Mana 850 GT ABS
+5276,Used,8995.0,"Daytona Beach, Florida, United States",2013,109,Other,Other,No,Mana 850 GT ABS
 5277,Used,1025.0,"Suncook, New Hampshire, United States",2008,16959,Metallic,Victory,No,JACKPOT PREMIUM EXTREME GRAPHICS
 5278,Used,11277.0,"Cleburne, Texas, United States",2011,21042,Brown,Harley-Davidson,No,FLHX - Street Glide®
 5279,Used,12895.0,"Fort Walton Beach, Florida, United States",2016,2051,Silver,Harley-Davidson,No,FLTRU - Road Glide® Ultra
@@ -4165,13 +4165,13 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5281,Used,8400.0,"Fort Walton Beach, Florida, United States",2016,938,Black,Harley-Davidson,No,FLHXS - Street Glide® Special
 5282,Used,1000.0,"Fort Walton Beach, Florida, United States",2016,1450,Black,Harley-Davidson,No,Dyna
 5283,Used,8450.0,"Round Rock, Texas, United States",2012,28550,Black,Victory,No,Cross Roads Classic LE
-5284,Used,9000.0,"Birmingham, Alabama, United States",1996,8117,Black,Moto Guzzi,No,1100 Sport
+5284,Used,9000.0,"Birmingham, Alabama, United States",1996,8117,Black,Other,No,1100 Sport
 5288,Used,1000.0,"Fort Walton Beach, Florida, United States",2015,8994,Black,Harley-Davidson,No,FLHXS - Street Glide® Special
 5289,Used,5100.0,"Fort Walton Beach, Florida, United States",2015,18520,Black,Harley-Davidson,No,FLTRXS - Road Glide® Special
 5290,Used,9500.0,"Saint Johns, Florida, United States",2011,2855,Silver,Can-Am,No,RS-S
 5291,Used,18999.0,"Cleburne, Texas, United States",2015,16089,Black,Harley-Davidson,No,FLTRXS - Road Glide® Special
 5292,Used,500.0,"Cleburne, Texas, United States",2013,10333,Blue,Harley-Davidson,No,FLTRU - Road Glide® Ultra
-5294,Used,13500.0,"Bethesda, Maryland, United States",2010,435,Black,MV Agusta,No,F4
+5294,Used,13500.0,"Bethesda, Maryland, United States",2010,435,Black,Other,No,F4
 5295,Used,18792.0,"Scott City, Missouri, United States",2014,1085,Gold,Harley-Davidson,No,Softail Deluxe
 5296,Used,14792.0,"Scott City, Missouri, United States",2014,310,Brown,Harley-Davidson,No,Heritage Softail Classic
 5297,Used,9491.0,"Houston, Texas, United States",2012,11740,White,Harley-Davidson,No,FLSTC - Heritage Softail® Classic
@@ -4262,14 +4262,14 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5404,Used,7466.0,"Delbarton, West Virginia, United States",2009,5819,Silver,Harley-Davidson,No,FXD - Dyna® Super Glide®
 5405,Used,9490.0,"Dallas, Texas, United States",2012,34749,Silver,Harley-Davidson,No,FLSTC - Heritage Softail Classic Managers Special
 5406,Used,11388.0,"Plano, Texas, United States",2014,6130,Red,Ducati,No,Multistrada 1200 S Touring
-5407,Used,16999.0,"Elmhurst, Illinois, United States",2015,3008,--,Polaris,No,Slingshot SL
+5407,Used,16999.0,"Elmhurst, Illinois, United States",2015,3008,--,Other,No,Slingshot SL
 5409,Used,4499.0,"Suncook, New Hampshire, United States",2016,1424,Blue,Yamaha,No,XT
 5410,Used,8999.0,"Suncook, New Hampshire, United States",2015,10964,Red,Yamaha,No,FJ09 900 W/ABS
 5411,Used,11970.0,"Dallas, Texas, United States",2012,19533,Red,BMW,No,K-Series
 5412,Used,13299.0,"Plano, Texas, United States",2012,23811,Gray,BMW,No,K-Series
 5413,Used,6999.0,"Delbarton, West Virginia, United States",2013,4900,White,Kawasaki,No,Ninja
 5414,Used,13960.0,"Dallas, Texas, United States",2011,14379,Black,Harley-Davidson,No,FXDF - Dyna Fat Bob Trike
-5416,Used,16999.0,"Elmhurst, Illinois, United States",2015,13945,Red,Polaris,No,Slingshot SL
+5416,Used,16999.0,"Elmhurst, Illinois, United States",2015,13945,Red,Other,No,Slingshot SL
 5417,Used,12988.0,"Scott City, Missouri, United States",2014,1202,Gold,Harley-Davidson,No,Dyna Wide Glide
 5418,Used,6297.0,"Dallas, Texas, United States",2006,23719,Orange,Harley-Davidson,No,FXDI - Dyna Super Glide
 5421,Used,11999.0,"Suncook, New Hampshire, United States",2014,876,Red,Kawasaki,No,ZX14R NINJA 1400 W/ABS
@@ -4279,7 +4279,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5425,Used,7999.0,"Suncook, New Hampshire, United States",2013,4926,Black,Harley-Davidson,No,Sportster
 5427,Used,7950.0,"Dallas, Texas, United States",2007,28587,Black,Harley-Davidson,No,FLSTC - Heritage Softail Classic
 5428,Used,7995.0,"Port Charlotte, Florida, United States",1981,1506,Red,Kawasaki,No,KZ
-5429,Used,17799.0,"Elmhurst, Illinois, United States",2016,6066,--,Polaris,No,Slingshot
+5429,Used,17799.0,"Elmhurst, Illinois, United States",2016,6066,--,Other,No,Slingshot
 5430,Used,4950.0,"Round Rock, Texas, United States",2015,391,Black,Harley-Davidson,No,XG750 - Street 750
 5431,Used,4950.0,"Round Rock, Texas, United States",2004,19845,Black,BMW,No,R 1150 RT
 5432,Used,12992.0,"Dallas, Texas, United States",2011,12155,Gold,Harley-Davidson,No,FLSTSE2 - Screamin Eagle Softail Convertible CVO M
@@ -4287,7 +4287,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5435,Used,5999.0,"Elmhurst, Illinois, United States",2001,15527,--,Harley-Davidson,No,Dyna Wide Glide
 5436,Used,8750.0,"Dallas, Texas, United States",2007,10150,Red,Harley-Davidson,No,FXST - Softail Standard
 5437,Used,17999.0,"Indianapolis, Indiana, United States",2015,7573,Red,Other,No,Slingshot SL
-5438,Used,9999.0,"Elmhurst, Illinois, United States",2005,503,Black,American Ironhorse,No,Texas Chopper
+5438,Used,9999.0,"Elmhurst, Illinois, United States",2005,503,Black,Other,No,Texas Chopper
 5439,Used,7388.0,"Scott City, Missouri, United States",2011,2210,Red,Honda,Yes,Vt13ctb
 5440,Used,9599.0,"Indianapolis, Indiana, United States",2010,4000,White,Other,No,Spyder RS-S
 5441,Used,8460.0,"Dallas, Texas, United States",2011,27061,Red,BMW,No,K-Series
@@ -4342,9 +4342,9 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5520,Used,3990.0,"Dallas, Texas, United States",2004,39417,Purple,Kawasaki,No,Vulcan 2000 - VN2000A Managers Special
 5523,Used,7999.0,"Elmhurst, Illinois, United States",2007,7770,--,Triumph,No,America
 5524,Used,16677.0,"Scott City, Missouri, United States",2008,4527,Black,Harley-Davidson,Yes,Cvo Road King
-5525,Used,5980.0,"Scott City, Missouri, United States",2006,19406,Black,Buell,Yes,Ulysses
+5525,Used,5980.0,"Scott City, Missouri, United States",2006,19406,Black,Other,Yes,Ulysses
 5527,Used,7796.0,"Dallas, Texas, United States",2009,15896,Black,BMW,No,K-Series
-5529,Used,8996.0,"Dallas, Texas, United States",2006,2842,Red,American Ironhorse,No,Tejas
+5529,Used,8996.0,"Dallas, Texas, United States",2006,2842,Red,Other,No,Tejas
 5530,Used,16991.0,"McKinney, Texas, United States",2016,1800,Black,Harley-Davidson,No,Dyna Low Rider S
 5532,Used,4990.0,"Dallas, Texas, United States",2015,6318,Black,Harley-Davidson,No,XL883N - Sportster Iron 883 Managers Special
 5534,Used,9750.0,"Dallas, Texas, United States",2016,780,Black,Harley-Davidson,No,XL1200CX - Roadster
@@ -4362,7 +4362,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5567,Used,3699.0,"Suncook, New Hampshire, United States",2006,19893,Orange,Kawasaki,No,Vulcan
 5571,Used,10796.0,"Dallas, Texas, United States",2005,17594,Silver,Harley-Davidson,No,FLSTFSE - Screamin Eagle Fat Boy CVO
 5579,Used,5999.0,"Elmhurst, Illinois, United States",2004,10579,Gray,Kawasaki,No,Ninja
-5580,Used,8500.0,"Orange, California, United States",2002,8600,Black,Bourget,No,Rude
+5580,Used,8500.0,"Orange, California, United States",2002,8600,Black,Other,No,Rude
 5582,Used,13588.0,"Scott City, Missouri, United States",2016,881,White,Harley-Davidson,Yes,Dyna Street Bob
 5583,Used,16950.0,"Dallas, Texas, United States",2014,19834,Black,Harley-Davidson,No,FLHTK - Ultra Limited
 5587,Used,12450.0,"Dallas, Texas, United States",2010,12292,Black,Harley-Davidson,No,FXDFSE2 - Screamin Eagle Fat Bob CVO
@@ -4425,7 +4425,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5695,Used,6999.0,"Suncook, New Hampshire, United States",2003,6941,Yellow,Other,No,RIGID CHOPPER
 5696,Used,8999.0,"Suncook, New Hampshire, United States",2012,14861,Blue,Yamaha,No,XT
 5697,Used,5250.0,"Round Rock, Texas, United States",2008,38988,Orange,Triumph,No,Tiger 1050
-5698,Used,5999.0,"Suncook, New Hampshire, United States",2009,10693,Orange,Buell,No,Ulysses®
+5698,Used,5999.0,"Suncook, New Hampshire, United States",2009,10693,Orange,Other,No,Ulysses®
 5699,Used,6999.0,"Suncook, New Hampshire, United States",2008,2880,Yellow,Yamaha,No,YZFR6 600
 5700,Used,6999.0,"Suncook, New Hampshire, United States",2008,2880,Yellow,Yamaha,No,YZFR6 600
 5701,Used,6950.0,"Round Rock, Texas, United States",2011,28088,Black,Triumph,No,Thunderbird Storm
@@ -4462,7 +4462,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 5738,Used,12000.0,"Roselle, Illinois, United States",2013,3200,Red,BMW,No,R-Series
 5739,Used,3888.0,"Bensalem, Pennsylvania, United States",2006,16475,Red,Harley-Davidson,No,XL883C - Sportster® 883® Custom
 5740,Used,2575.0,"Rosedale, Maryland, United States",2010,3207,Silver,Harley-Davidson,No,Sportster
-5742,Used,23500.0,"Goldsboro, North Carolina, United States",2017,445,Orange,Polaris,No,Slingshot SLR
+5742,Used,23500.0,"Goldsboro, North Carolina, United States",2017,445,Orange,Other,No,Slingshot SLR
 5743,Used,7975.0,"Bensalem, Pennsylvania, United States",2010,19151,Black,Yamaha,No,YZF R1
 5744,Used,8975.0,"Bensalem, Pennsylvania, United States",2012,1415,Red,Yamaha,No,YZF-R
 5745,Used,21377.0,"Scott City, Missouri, United States",2015,3668,Black,Harley-Davidson,Yes,Freewheeler
@@ -4696,12 +4696,12 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6059,Used,5000.0,"Rosedale, Maryland, United States",2007,24291,Red,Suzuki,No,Boulevard
 6060,Used,8300.0,"Jackson, New Jersey, United States",2014,1994,Blue,Suzuki,No,GSX-R
 6061,Used,11500.0,"Bishop, California, United States",2009,15750,Red,Ducati,No,Monster
-6063,Used,4200.0,"Oregon City, Oregon, United States",2009,7500,White,Aprilia,No,rsv1000r
+6063,Used,4200.0,"Oregon City, Oregon, United States",2009,7500,White,Other,No,rsv1000r
 6064,Used,5000.0,"Montreal, Quebec, Canada",2000,9300,Silver,BMW,No,K-Series
 6065,Used,18500.0,"Greenwood, Arkansas, United States",2010,8800,Other,Harley-Davidson,No,Touring
 6068,Used,7999.0,"Komoka, Ontario, Canada",2012,27000,Blue,Yamaha,No,YZF-R
 6069,Used,4999.0,"Saint Charles, Missouri, United States",2014,5197,Black,Yamaha,No,Bolt
-6070,Used,10450.0,"Round Rock, Texas, United States",2014,3953,White,MV Agusta,No,Brutale 800 Dragster
+6070,Used,10450.0,"Round Rock, Texas, United States",2014,3953,White,Other,No,Brutale 800 Dragster
 6071,Used,4899.0,"Saint Charles, Missouri, United States",2015,1652,Black,Yamaha,No,SR400
 6074,Used,3999.0,"Mountain Home, Arkansas, United States",2005,24000,Blue,Yamaha,No,FJR
 6077,Used,3750.0,"Dallas, Texas, United States",2004,15727,Red,Honda,No,VTX 1300 C
@@ -4762,7 +4762,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6151,Used,2500.0,"San Antonio, Texas, United States",2012,13355,Red,Ducati,No,Monster
 6153,Used,18000.0,"Port Alberni, British Columbia, Canada",2007,2500,Other,Custom Built Motorcycles,No,Chopper
 6154,Used,7950.0,"Round Rock, Texas, United States",2006,8419,Black,Harley-Davidson,No,FLSTC - Heritage Softail Classic
-6155,Used,8999.0," California US, United States",2009,3924,Orange,KTM,No,RC8 1190
+6155,Used,8999.0," California US, United States",2009,3924,Orange,Other,No,RC8 1190
 6156,Used,7450.0,"Round Rock, Texas, United States",2016,359,Black,Triumph,No,Scrambler
 6157,Used,6495.0,"Boynton Beach, Florida, United States",2015,3245,Silver,Harley-Davidson,No,Sportster Iron 883
 6159,Used,18450.0,"Round Rock, Texas, United States",2014,4994,Red,Harley-Davidson,No,FLSTNSE - CVO Softail Deluxe
@@ -4778,13 +4778,13 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6174,Used,10400.0,"North York, Ontario, Canada",2010,15100,White,Ducati,No,Multistrada
 6175,Used,10299.0,"Carrollton, Texas, United States",1982,7000,Red,Custom Built Motorcycles,No,Other
 6177,Used,3000.0,"Almonte, Canada",1998,7380,Red,Ducati,No,Monster
-6178,Used,4400.0,"Villa Park, California, United States",2009,16000,Other,Aprilia,No,
+6178,Used,4400.0,"Villa Park, California, United States",2009,16000,Other,Other,No,
 6179,Used,17500.0,"Midhurst, Ontario, Canada",2012,4412,Black,Yamaha,No,V Max
 6181,Used,15995.0,"Plano, Texas, United States",2015,2945,Brown,BMW,No,K-Series
 6183,Used,3950.0,"Round Rock, Texas, United States",2006,28314,White,Harley-Davidson,No,XL1200C - Sportster 1200 Custom
 6185,Used,5999.0,"Saint Charles, Missouri, United States",2017,941,Red,Honda,No,CRF
 6186,Used,12450.0,"Round Rock, Texas, United States",2015,21244,Black,Indian,No,Chief Vintage Thunder Black
-6187,Used,7900.0,"Wantagh, New York, United States",2001,7633,Other,Bourget,No,
+6187,Used,7900.0,"Wantagh, New York, United States",2001,7633,Other,Other,No,
 6188,Used,4000.0,"Chandler, Arizona, United States",2003,8300,Other,Kawasaki,No,Vulcan
 6189,Used,7500.0,"Saint-Lazare, Quebec, Canada",1971,3500,Red,Triumph,No,Trophy
 6191,Used,2500.0,"St Albert, Alberta, Canada",1979,577,Yellow,Suzuki,No,PE175
@@ -4795,12 +4795,12 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6198,Used,13950.0,"Round Rock, Texas, United States",2014,18156,Red,Ducati,No,Multistrada 1200 S Touring
 6200,Used,3899.0,"Saint Charles, Missouri, United States",2009,9014,Red,Honda,No,XR
 6203,Used,15950.0,"Round Rock, Texas, United States",2015,29502,Red,Harley-Davidson,No,FLHTK - Ultra Limited
-6206,Used,4500.0,"Vernon, BC, Canada",1999,6505,Red,Buell,No,Lightning
+6206,Used,4500.0,"Vernon, BC, Canada",1999,6505,Red,Other,No,Lightning
 6207,Used,10995.0,"Boynton Beach, Florida, United States",2011,2680,Black,Harley-Davidson,No,Night Rod Special VRSCDX VRod
 6209,Used,25995.0,"Mount Zion, Illinois, United States",2012,7364,White,Harley-Davidson,No,Touring
 6210,Used,18995.0,"Boynton Beach, Florida, United States",2015,3776,Black,Harley-Davidson,No,FLTRXS - Road Glide Special
 6211,Used,13495.0,"Boynton Beach, Florida, United States",2014,908,Orange,Harley-Davidson,No,Night Rod Special VRSCDX VRod
-6212,Used,20000.0,"Owen Sound, Ontario, Canada",1971,500,Red,Norton,No,commando ss
+6212,Used,20000.0,"Owen Sound, Ontario, Canada",1971,500,Red,Other,No,commando ss
 6213,Used,7999.0,"Saint Charles, Missouri, United States",2012,1772,Red,Victory,No,Hammer™
 6214,Used,7599.0,"Saint Charles, Missouri, United States",2013,2448,Red,Victory,No,Judge
 6216,Used,3000.0,"Georgetown, Ontario, Canada",2001,3500,Other,Yamaha,No,YZF
@@ -4825,7 +4825,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6237,Used,500.0,"Scott City, Missouri, United States",2016,112,Black,Harley-Davidson,Yes,Flss
 6238,Used,4999.0,"Elmhurst, Illinois, United States",1995,38442,Blue,Harley-Davidson,No,FLSTF Fat Boy
 6239,Used,9900.0,"Fraser, Michigan, United States",2005,10500,Red,Harley-Davidson,No,Softail
-6241,Used,8950.0,"Round Rock, Texas, United States",2004,196,Black,Big Dog,No,Mastiff
+6241,Used,8950.0,"Round Rock, Texas, United States",2004,196,Black,Other,No,Mastiff
 6242,Used,11499.0,"Elmhurst, Illinois, United States",2015,1550,Blue,Harley-Davidson,No,FLD - Dyna® Switchback™
 6244,Used,11950.0,"Round Rock, Texas, United States",2015,13554,White,Victory,No,Cross Country Suede White Frost
 6245,Used,9950.0,"Dallas, Texas, United States",2011,18433,White,Victory,No,Cross Country
@@ -5195,7 +5195,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6682,Used,13499.0,"Suncook, New Hampshire, United States",2015,5469,Red,Harley-Davidson,No,V-Rod®
 6683,Used,6496.0,"Dallas, Texas, United States",2005,23976,Silver,Harley-Davidson,No,FXDLI - Dyna Low Rider
 6684,Used,3995.0,"Phoenix, Arizona, United States",2007,28340,Red,Honda,No,CB
-6685,Used,4750.0,"Dallas, Texas, United States",2009,14005,Red,Buell,No,1125 CR
+6685,Used,4750.0,"Dallas, Texas, United States",2009,14005,Red,Other,No,1125 CR
 6686,Used,14977.0,"Scott City, Missouri, United States",2011,16840,Blue,Harley-Davidson,Yes,FLHTK - Ultra Limited
 6687,Used,30988.0,"Scott City, Missouri, United States",2016,10723,Silver,Harley-Davidson,Yes,Cvo Limited
 6688,Used,8188.0,"Scott City, Missouri, United States",2015,1839,Black,Harley-Davidson,Yes,Sportster Iron 883
@@ -5213,7 +5213,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6704,Used,13900.0,"Saint Louis, Missouri, United States",1990,20046,Blue,BMW,No,K-Series
 6705,Used,8495.0,"Phoenix, Arizona, United States",2015,14233,Blue,Suzuki,No,GSX-R750
 6706,Used,10750.0,"Dallas, Texas, United States",2013,11489,Black,Harley-Davidson,No,FXDWG - Dyna Wide Glide
-6708,Used,4750.0,"Dallas, Texas, United States",2009,14005,Red,Buell,No,1125 CR
+6708,Used,4750.0,"Dallas, Texas, United States",2009,14005,Red,Other,No,1125 CR
 6709,Used,7588.0,"Scott City, Missouri, United States",2015,2282,Black,Harley-Davidson,Yes,Sportster Superlow 883
 6710,Used,19988.0,"Scott City, Missouri, United States",2015,5092,Black,Harley-Davidson,Yes,Ultra Limited Low
 6711,Used,14999.0,"Elmhurst, Illinois, United States",2004,16770,--,Harley-Davidson,No,FLHTCUI - Electra Glide® Ultra Classic®
@@ -5246,7 +5246,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6740,Used,2290.0,"Dallas, Texas, United States",2007,32104,Red,Honda,No,Nighthawk 250 Managers Special
 6741,Used,11950.0,"Dallas, Texas, United States",2002,22830,Black,Harley-Davidson,No,FLSTSI - Heritage Springer
 6742,Used,23777.0,"Scott City, Missouri, United States",2016,2072,Red,Harley-Davidson,Yes,Freewheeler
-6743,Used,16788.0,"Scott City, Missouri, United States",2015,3204,Red,Polaris,Yes,Slingshot SL
+6743,Used,16788.0,"Scott City, Missouri, United States",2015,3204,Red,Other,Yes,Slingshot SL
 6744,Used,27988.0,"Scott City, Missouri, United States",2014,7529,Silver,Harley-Davidson,Yes,Cvo Limited
 6745,Used,9799.0,"Suncook, New Hampshire, United States",2015,999,Gray,Suzuki,No,GSX-R750
 6746,Used,14999.0,"Suncook, New Hampshire, United States",2015,12437,Black,Harley-Davidson,No,Softail
@@ -5275,7 +5275,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6772,Used,11995.0,"Port Charlotte, Florida, United States",2015,14633,Black,Harley-Davidson,No,V-Rod®
 6773,Used,12791.0,"McKinney, Texas, United States",2015,5680,Blue,Harley-Davidson,No,Night Rod Special
 6774,Used,6495.0,"Phoenix, Arizona, United States",2007,20953,--,Kawasaki,No,ZX-14
-6775,Used,6588.0,"Scott City, Missouri, United States",2000,20814,Yellow,Bourget,Yes,Low Blow
+6775,Used,6588.0,"Scott City, Missouri, United States",2000,20814,Yellow,Other,Yes,Low Blow
 6777,Used,15388.0,"Scott City, Missouri, United States",2016,3810,Red,Harley-Davidson,Yes,Dyna Wide Glide
 6778,Used,7499.0,"Elmhurst, Illinois, United States",2007,14052,--,Suzuki,No,Hayabusa™ 1300
 6779,Used,6699.0,"Suncook, New Hampshire, United States",2012,7118,Red,Yamaha,No,XVS1300 VSTAR 1300
@@ -5293,7 +5293,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6791,Used,10999.0,"Elmhurst, Illinois, United States",2012,9796,Black,Suzuki,No,Hayabusa
 6792,Used,15999.0,"Suncook, New Hampshire, United States",2015,4729,Black,Harley-Davidson,No,FXSB BREAKOUT W/ABS
 6793,Used,2799.0,"Suncook, New Hampshire, United States",2003,22835,Purple,Yamaha,No,XVS650 VSTAR 650 CLASSIC
-6794,Used,12788.0,"Plano, Texas, United States",2015,1489,Gray,Ural,No,CT
+6794,Used,12788.0,"Plano, Texas, United States",2015,1489,Gray,Other,No,CT
 6795,Used,3995.0,"Plano, Texas, United States",2011,32840,White,BMW,No,F-Series
 6798,Used,11499.0,"Suncook, New Hampshire, United States",2013,1987,Gray,Suzuki,No,Hayabusa
 6799,Used,12450.0,"Round Rock, Texas, United States",2013,13644,Red,Honda,No,Gold Wing F6B GL1800B
@@ -5372,7 +5372,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6896,Used,8499.0,"Suncook, New Hampshire, United States",2013,2772,Blue,Harley-Davidson,No,Sportster
 6899,Used,16999.0,"Suncook, New Hampshire, United States",2014,16376,Black,Harley-Davidson,No,FLHR - Road King
 6900,Used,16999.0,"Suncook, New Hampshire, United States",2014,16376,Black,Harley-Davidson,No,FLHR - Road King
-6901,Used,14888.0,"Dallas, Texas, United States",2004,5909,Black,Big Dog,No,
+6901,Used,14888.0,"Dallas, Texas, United States",2004,5909,Black,Other,No,
 6902,New,22888.0,"Plano, Texas, United States",2016,184,Black,BMW,No,K-Series
 6904,Used,5291.0,"McKinney, Texas, United States",2016,155,Red,Harley-Davidson,No,XL883 SuperLow
 6905,Used,7499.0,"Suncook, New Hampshire, United States",2005,30846,Blue,Harley-Davidson,No,Dyna
@@ -5425,7 +5425,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 6966,Used,7995.0,"Phoenix, Arizona, United States",2014,10750,Blue,Suzuki,No,GSX-R750
 6967,Used,1788.0,"Scott City, Missouri, United States",1993,33262,Black,Suzuki,Yes,Vs 800 Intruder
 6969,Used,9988.0,"Scott City, Missouri, United States",2014,4726,Black,Harley-Davidson,Yes,Xl1200c
-6970,Used,38999.0,"Elmhurst, Illinois, United States",2015,6970,Black,Boss Hoss,No,BHC-9 Coupe Trike
+6970,Used,38999.0,"Elmhurst, Illinois, United States",2015,6970,Black,Other,No,BHC-9 Coupe Trike
 6971,Used,6499.0,"Suncook, New Hampshire, United States",2007,19745,Black,Harley-Davidson,No,Sportster
 6974,Used,14491.0,"McKinney, Texas, United States",2012,2577,Purple,Harley-Davidson,No,Street Glide
 6975,Used,11991.0,"McKinney, Texas, United States",2011,13131,Black,Harley-Davidson,No,Street Glide
@@ -5469,10 +5469,10 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 7042,Used,7691.0,"McKinney, Texas, United States",2012,9994,Blue,Yamaha,No,Super TÃ©nÃ©rÃ©
 7043,Used,15891.0,"McKinney, Texas, United States",2014,12005,Black,Harley-Davidson,No,Street Glide
 7044,Used,18950.0,"Dallas, Texas, United States",2015,962,Gold,Harley-Davidson,No,FLTRXS - Road Glide Special
-7046,Used,7995.0,"Phoenix, Arizona, United States",2010,14746,--,KTM,No,990 SMT
+7046,Used,7995.0,"Phoenix, Arizona, United States",2010,14746,--,Other,No,990 SMT
 7048,Used,8588.0,"Scott City, Missouri, United States",2015,8006,Black,Harley-Davidson,Yes,Xl1200c
 7049,Used,16577.0,"Scott City, Missouri, United States",2013,19952,Black,Harley-Davidson,Yes,Street Glide
-7051,Used,7995.0,"Phoenix, Arizona, United States",2010,14746,--,KTM,No,990 SMT
+7051,Used,7995.0,"Phoenix, Arizona, United States",2010,14746,--,Other,No,990 SMT
 7053,Used,14788.0,"Scott City, Missouri, United States",2013,21780,Black,Harley-Davidson,Yes,Electra Glide Classic
 7054,Used,12499.0,"Elmhurst, Illinois, United States",2012,879,Green,Can-Am,No,Spyder Roadster RS-S
 7055,Used,5999.0,"Elmhurst, Illinois, United States",2006,36344,Black,Suzuki,No,Boulevard
@@ -5496,12 +5496,12 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 7083,Used,11499.0,"Suncook, New Hampshire, United States",2011,11755,Red,Ducati,No,Diavel
 7090,Used,9395.0,"Port Charlotte, Florida, United States",2011,3276,Black,Harley-Davidson,No,Dyna
 7093,Used,8999.0,"Suncook, New Hampshire, United States",2010,15947,Red,Harley-Davidson,No,Dyna
-7094,Used,1799.0,"Suncook, New Hampshire, United States",2004,18104,Silver,Hyosung,No,GV250 AQUILA
+7094,Used,1799.0,"Suncook, New Hampshire, United States",2004,18104,Silver,Other,No,GV250 AQUILA
 7095,Used,2288.0,"Scott City, Missouri, United States",2007,32426,Gray,Suzuki,Yes,C50bk7 Boulevard
 7096,Used,7499.0,"Elmhurst, Illinois, United States",2016,435,Blue,Triumph,No,America
 7100,Used,17490.0,"Round Rock, Texas, United States",2015,10472,Gold,Harley-Davidson,No,FLTRXS - Road Glide Special
 7103,Used,8999.0,"Suncook, New Hampshire, United States",2010,15947,Red,Harley-Davidson,No,Dyna
-7104,Used,16995.0,"Phoenix, Arizona, United States",2014,950,Orange,Polaris,No,RZR XP 1000 EPS
+7104,Used,16995.0,"Phoenix, Arizona, United States",2014,950,Orange,Other,No,RZR XP 1000 EPS
 7105,Used,2288.0,"Scott City, Missouri, United States",2007,32426,Gray,Suzuki,Yes,C50bk7 Boulevard
 7107,Used,7499.0,"Elmhurst, Illinois, United States",2016,435,Blue,Triumph,No,America
 7115,Used,17491.0,"McKinney, Texas, United States",2016,4979,Black,Harley-Davidson,No,Street Glide
@@ -5543,7 +5543,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 7184,Used,5495.0,"Phoenix, Arizona, United States",2014,20083,Red,Yamaha,No,V Star
 7185,Used,5588.0,"Scott City, Missouri, United States",2012,9675,Blue,Triumph,Yes,Thunderbird
 7186,Used,6395.0,"Port Charlotte, Florida, United States",2007,10993,Black,Harley-Davidson,No,V-Rod
-7187,Used,12500.0,"Saint Charles, Missouri, United States",2007,10222,Orange,Big Dog,No,Chopper
+7187,Used,12500.0,"Saint Charles, Missouri, United States",2007,10222,Orange,Other,No,Chopper
 7188,Used,22999.0,"Suncook, New Hampshire, United States",2015,13718,Black,Harley-Davidson,No,FLHTK ELECTRA GLIDE ULTRA LIMITED
 7189,Used,9088.0,"Scott City, Missouri, United States",2014,4512,Green,Triumph,Yes,Tiger Explorer Xc
 7190,Used,6288.0,"Scott City, Missouri, United States",2012,5714,Black,Triumph,Yes,Speed Triple
@@ -5555,7 +5555,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 7201,Used,6891.0,"McKinney, Texas, United States",2011,7288,Silver,Yamaha,No,FZ
 7202,Used,6991.0,"McKinney, Texas, United States",2004,11794,Yellow,Ducati,No,999
 7203,Used,21999.0,"Suncook, New Hampshire, United States",2015,3236,Black,Harley-Davidson,No,FLTRXS ROAD GLIDE SPECIAL W/ABS
-7204,Used,3999.0,"Suncook, New Hampshire, United States",2013,2104,Black,Hyosung,No,ST7
+7204,Used,3999.0,"Suncook, New Hampshire, United States",2013,2104,Black,Other,No,ST7
 7205,Used,5995.0,"Phoenix, Arizona, United States",2008,23728,Red,Victory,No,Vegas
 7206,Used,18896.0,"Dallas, Texas, United States",2016,19696,Silver,Harley-Davidson,No,FLHTK - Ultra Limited
 7212,Used,7995.0,"Greensboro, North Carolina, United States",2006,30487,Red,Harley-Davidson,No,XL1200C - Sportster® 1200 Custom
@@ -5563,13 +5563,13 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 7215,Used,21999.0,"Goldsboro, North Carolina, United States",2016,700,Black,Victory,No,Magnum
 7220,Used,27000.0,"Greenbrier, Tennessee, United States",2009,3000,Green,Custom Built Motorcycles,No,Chopper
 7222,Used,5495.0,"Phoenix, Arizona, United States",2003,23020,Black,Victory,No,Vegas
-7223,Used,8750.0,"Dallas, Texas, United States",2015,21736,White,Aprilia,No,Caponord 1200 ABS Travel Pack
+7223,Used,8750.0,"Dallas, Texas, United States",2015,21736,White,Other,No,Caponord 1200 ABS Travel Pack
 7224,Used,7995.0,"Phoenix, Arizona, United States",2015,16558,Black,Victory,No,Vegas
-7237,Used,3900.0,"London, Kentucky, United States",2007,9829,Other,Hyosung,No,Aquila
+7237,Used,3900.0,"London, Kentucky, United States",2007,9829,Other,Other,No,Aquila
 7242,Used,11999.0,"Suncook, New Hampshire, United States",2016,863,Red,Victory,No,Vegas®
 7244,Used,3695.0,"Plano, Texas, United States",2005,29687,Black,Triumph,No,America
-7247,Used,6999.0,"Suncook, New Hampshire, United States",2009,28438,Black,Moto Guzzi,No,Stelvio
-7248,Used,5499.0,"Suncook, New Hampshire, United States",2007,10146,Red,Moto Guzzi,No,Nevada
+7247,Used,6999.0,"Suncook, New Hampshire, United States",2009,28438,Black,Other,No,Stelvio
+7248,Used,5499.0,"Suncook, New Hampshire, United States",2007,10146,Red,Other,No,Nevada
 7249,Used,34900.0,"Greensboro, North Carolina, United States",2017,2341,Black,Harley-Davidson,No,FLHXSE - CVO™ Street Glide®
 7252,Used,8850.0,"Dallas, Texas, United States",2017,2107,Gray,Victory,No,Octane
 7258,Used,8499.0,"Plano, Texas, United States",2013,17765,Blue,Triumph,No,Tiger Explorer Standard
@@ -5601,7 +5601,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 7336,Used,21999.0,"Suncook, New Hampshire, United States",2016,30144,Red,Harley-Davidson,No,FLHTK ELECTRA GLIDE ULTRA LIMITED
 7339,Used,16450.0,"Dallas, Texas, United States",2016,34167,Black,Harley-Davidson,No,FLHTCU - Electra Glide Ultra Classic
 7340,Used,32877.0,"Scott City, Missouri, United States",2016,5100,Black,Harley-Davidson,Yes,FLHXSE - CVO Street Glide
-7341,New,21999.0,"Greensboro, North Carolina, United States",2017,171,Red,Polaris,No,Slingshot SL
+7341,New,21999.0,"Greensboro, North Carolina, United States",2017,171,Red,Other,No,Slingshot SL
 7342,Used,4700.0,"Raymond, New Hampshire, United States",2012,8607,Gray,Harley-Davidson,No,XL 883N
 7343,Used,12450.0,"Dallas, Texas, United States",2011,15962,Black,Can-Am,No,Spyder RT-S SM5
 7344,Used,14700.0,"Dallas, Texas, United States",2015,20849,Black,Harley-Davidson,No,Touring
@@ -5636,7 +5636,7 @@ Id,Condition,Price,Location,Model_Year,Mileage,Exterior_Color,Make,Warranty,Mode
 7417,Used,5900.0,"Raymond, New Hampshire, United States",2008,14627,Red,Honda,No,CBR
 7418,Used,9600.0,"Raymond, New Hampshire, United States",2012,35906,Blue,Harley-Davidson,No,FLHRCI
 7419,Used,12900.0,"Raymond, New Hampshire, United States",2013,16033,Black,Harley-Davidson,No,FLHX
-7422,Used,1900.0,"Raymond, New Hampshire, United States",2009,6495,Black,Hyosung,No,GT650 R
+7422,Used,1900.0,"Raymond, New Hampshire, United States",2009,6495,Black,Other,No,GT650 R
 7423,Used,3300.0,"Raymond, New Hampshire, United States",2009,21756,Black,Suzuki,No,DL650
 7424,Used,3200.0,"Raymond, New Hampshire, United States",2007,4959,Black,Harley-Davidson,No,XL 883L
 7425,Used,4900.0,"Raymond, New Hampshire, United States",2012,11930,Yellow,Suzuki,No,GSX-R750
