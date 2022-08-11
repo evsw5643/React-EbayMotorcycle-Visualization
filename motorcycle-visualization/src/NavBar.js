@@ -3,12 +3,11 @@ const Navbar = () => {
         <nav className="navbar">
             <h1>Ebay Motorcycle Visualizations</h1>
             <div className="links">
-                <a href="/">Home</a>
-                <a href="/create" style = {{
+                <a href="/" style = {{
                     color: "white",
                     backgroundColor: "#f1356d",
                     borderRadius: "8px"
-                }}>New Blog</a>
+                }}>Home</a>
             </div>
         </nav>
      );

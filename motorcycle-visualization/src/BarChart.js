@@ -40,10 +40,11 @@ const BarChart = (myData) => {
         plugins: {
             legend: {
                 position: 'top',
+                display: false,
             },
             title: {
                 display: true,
-                text: 'Chart.js Horizontal Bar Chart',
+                text: '# of Motorcycles Per Make',
             },
         },
     };
@@ -58,7 +59,6 @@ const BarChart = (myData) => {
         new Map
     );
 
-console.log(freqMap);
 
     const data = {
         labels: Array.from(freqMap.keys()),//freqMap.map((motorcycle) => motorcycle.Make),
@@ -67,7 +67,7 @@ console.log(freqMap);
                 label: "Number Of Makes",
                 data: Array.from(freqMap.values()),
                 backgroundColor: [
-                    "#50AF95",
+                    "#f1356d",
                 ],
             },
         ],
@@ -77,9 +77,10 @@ console.log(freqMap);
 
     return (
         <div className="bar-chart">
+            <br />
             <Bar
-                height={800}
-                width={1200}
+                height={300}
+                width={800}
                 options={options}
                 data={data}
             />
